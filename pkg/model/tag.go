@@ -39,14 +39,14 @@ const (
 )
 
 var tagMapJa = map[Tag]string{
-	TagVanguard:     "先鋒",
-	TagGuard:        "前衛",
-	TagDefender:     "重装",
-	TagSniper:       "狙撃",
-	TagCaster:       "術師",
-	TagMedic:        "医療",
-	TagSupporter:    "補助",
-	TagSpecialist:   "特殊",
+	TagVanguard:     "先鋒タイプ",
+	TagGuard:        "前衛タイプ",
+	TagDefender:     "重装タイプ",
+	TagSniper:       "狙撃タイプ",
+	TagCaster:       "術師タイプ",
+	TagMedic:        "医療タイプ",
+	TagSupporter:    "補助タイプ",
+	TagSpecialist:   "特殊タイプ",
 	TagMelee:        "近距離",
 	TagRanged:       "遠距離",
 	TagDPS:          "火力",

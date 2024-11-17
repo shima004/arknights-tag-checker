@@ -31,8 +31,7 @@ import (
 )
 
 func main() {
-  // Load operator data
-  search, err := search.NewSearchOperator("data/operators.json")
+  search, err := search.NewSearchOperator()
   if err != nil {
     panic(err)
   }
@@ -67,7 +66,6 @@ import (
 )
 
 func main() {
-  // Load operator data
   search, err := search.NewSearchOperator("data/operators.json")
   if err != nil {
     panic(err)

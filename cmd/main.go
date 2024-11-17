@@ -1,10 +1,11 @@
 package main
 
 import (
-	"arknights-tag-checker/pkg/filter"
-	"arknights-tag-checker/pkg/model"
-	"arknights-tag-checker/pkg/search"
 	"fmt"
+
+	"github.com/shima004/arknights-tag-checker/pkg/filter"
+	"github.com/shima004/arknights-tag-checker/pkg/model"
+	"github.com/shima004/arknights-tag-checker/pkg/search"
 )
 
 func main() {

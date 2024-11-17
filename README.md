@@ -16,7 +16,7 @@
 以下の手順に従ってインストールしてください：
 
 ```sh
-go get github.com/shimapaca/arknights-tag-checker
+go get github.com/shima004/arknights-tag-checker
 ```
 
 ## Example
@@ -27,9 +27,9 @@ go get github.com/shimapaca/arknights-tag-checker
 package main
 
 import (
-  "arknights-tag-checker/pkg/filter"
-  "arknights-tag-checker/pkg/model"
-  "arknights-tag-checker/pkg/search"
+  "github.com/shima004/arknights-tag-checker/pkg/filter"
+  "github.com/shima004/arknights-tag-checker/pkg/model"
+  "github.com/shima004/arknights-tag-checker/pkg/search"
   "fmt"
 )
 
@@ -63,9 +63,9 @@ func main() {
 package main
 
 import (
-  "arknights-tag-checker/pkg/filter"
-  "arknights-tag-checker/pkg/model"
-  "arknights-tag-checker/pkg/search"
+  "github.com/shima004/arknights-tag-checker/pkg/filter"
+  "github.com/shima004/arknights-tag-checker/pkg/model"
+  "github.com/shima004/arknights-tag-checker/pkg/search"
   "fmt"
 )
 

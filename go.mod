@@ -1,4 +1,4 @@
-module arknights-tag-checker
+module github.com/shima004/arknights-tag-checker
 
 go 1.23.0
 

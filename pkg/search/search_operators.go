@@ -1,10 +1,11 @@
 package search
 
 import (
-	"arknights-tag-checker/pkg/model"
 	"encoding/json"
 	"io"
 	"os"
+
+	"github.com/shima004/arknights-tag-checker/pkg/model"
 )
 
 type Filter interface {

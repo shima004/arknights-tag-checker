@@ -1,9 +1,10 @@
 package filter_test
 
 import (
-	"arknights-tag-checker/pkg/filter"
-	"arknights-tag-checker/pkg/model"
 	"testing"
+
+	"github.com/shima004/arknights-tag-checker/pkg/filter"
+	"github.com/shima004/arknights-tag-checker/pkg/model"
 
 	"github.com/stretchr/testify/assert"
 )

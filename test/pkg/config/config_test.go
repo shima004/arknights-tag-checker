@@ -1,8 +1,9 @@
 package config_test
 
 import (
-	"arknights-tag-checker/pkg/config"
 	"testing"
+
+	"github.com/shima004/arknights-tag-checker/pkg/config"
 )
 
 func TestSetDefaultConfig(t *testing.T) {

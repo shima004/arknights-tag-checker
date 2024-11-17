@@ -1,8 +1,9 @@
 package model_test
 
 import (
-	"arknights-tag-checker/pkg/model"
 	"testing"
+
+	"github.com/shima004/arknights-tag-checker/pkg/model"
 )
 
 func TestAcquisitionMethod_MarshalJSON(t *testing.T) {

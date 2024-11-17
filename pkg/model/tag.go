@@ -1,9 +1,10 @@
 package model
 
 import (
-	"arknights-tag-checker/pkg/config"
 	"encoding/json"
 	"fmt"
+
+	"github.com/shima004/arknights-tag-checker/pkg/config"
 )
 
 type Tag int

@@ -8,11 +8,13 @@ const (
 )
 
 var DefaultConfig = Config{
-	Language: LanguageJapanese,
+	DataFileLanguage: LanguageJapanese,
+	Language:         LanguageJapanese,
 }
 
 type Config struct {
-	Language Language
+	DataFileLanguage Language
+	Language         Language
 }
 
 func SetDefaultConfig(config Config) {

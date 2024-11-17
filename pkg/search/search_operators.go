@@ -1,7 +1,7 @@
 package search
 
 import (
-	"arknigths-tag-checker/pkg/model"
+	"arknights-tag-checker/pkg/model"
 	"encoding/json"
 	"io"
 	"os"
@@ -12,7 +12,7 @@ type Filter interface {
 }
 
 type SearchOperator struct {
-	Operators []*model.Operator
+	Operators model.Operators
 }
 
 func NewSearchOperator(filePath string) (*SearchOperator, error) {
@@ -25,7 +25,7 @@ func NewSearchOperator(filePath string) (*SearchOperator, error) {
 	}, nil
 }
 
-func loadOperator(filePath string) ([]*model.Operator, error) {
+func loadOperator(filePath string) (model.Operators, error) {
 	file, err := os.Open(filePath)
 	if err != nil {
 		return nil, err
@@ -34,7 +34,7 @@ func loadOperator(filePath string) ([]*model.Operator, error) {
 
 	byteValue, _ := io.ReadAll(file)
 
-	var operators []*model.Operator
+	var operators model.Operators
 	err = json.Unmarshal(byteValue, &operators)
 	if err != nil {
 		return nil, err
@@ -43,29 +43,18 @@ func loadOperator(filePath string) ([]*model.Operator, error) {
 	return operators, nil
 }
 
-func (s *SearchOperator) SearchOperator(is_and bool, filters ...Filter) []*model.Operator {
-	var result []*model.Operator
-	if is_and {
-		for _, operator := range s.Operators {
-			isValid := true
-			for _, filter := range filters {
-				if !filter.FilterOperator(operator) {
-					isValid = false
-					break
-				}
-			}
-			if isValid {
-				result = append(result, operator)
+func (s *SearchOperator) SearchOperator(filters ...Filter) model.Operators {
+	var result model.Operators
+	for _, operator := range s.Operators {
+		isValid := true
+		for _, filter := range filters {
+			if !filter.FilterOperator(operator) {
+				isValid = false
+				break
 			}
 		}
-	} else {
-		for _, operator := range s.Operators {
-			for _, filter := range filters {
-				if !filter.FilterOperator(operator) {
-					continue
-				}
-				result = append(result, operator)
-			}
+		if isValid {
+			result = append(result, operator)
 		}
 	}
 	return result

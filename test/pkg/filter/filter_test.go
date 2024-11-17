@@ -1,8 +1,8 @@
 package filter_test
 
 import (
-	"arknigths-tag-checker/pkg/filter"
-	"arknigths-tag-checker/pkg/model"
+	"arknights-tag-checker/pkg/filter"
+	"arknights-tag-checker/pkg/model"
 	"testing"
 
 	"github.com/stretchr/testify/assert"

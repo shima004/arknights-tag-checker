@@ -1,7 +1,7 @@
 package model_test
 
 import (
-	"arknigths-tag-checker/pkg/model"
+	"arknights-tag-checker/pkg/model"
 	"testing"
 )
 

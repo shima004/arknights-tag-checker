@@ -1,4 +1,4 @@
-module arknigths-tag-checker
+module arknights-tag-checker
 
 go 1.23.0
 

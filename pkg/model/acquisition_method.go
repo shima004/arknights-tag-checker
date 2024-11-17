@@ -1,12 +1,13 @@
 package model
 
 import (
-	"arknigths-tag-checker/pkg/config"
+	"arknights-tag-checker/pkg/config"
 	"encoding/json"
 	"fmt"
 )
 
 type AcquisitionMethod int
+type AcquisitionMethods []AcquisitionMethod
 
 const (
 	AMStandardHeadHunting AcquisitionMethod = iota + 1
@@ -51,7 +52,12 @@ func (am AcquisitionMethod) String() string {
 }
 
 func (am AcquisitionMethod) MarshalJSON() ([]byte, error) {
-	return []byte(`"` + am.String() + `"`), nil
+	switch config.DefaultConfig.DataFileLanguage {
+	case config.LanguageJapanese:
+		return json.Marshal(acquisitionMethodMapJa[am])
+	default:
+		return json.Marshal(acquisitionMethodMapEn[am])
+	}
 }
 
 func (am *AcquisitionMethod) UnmarshalJSON(data []byte) error {
@@ -59,7 +65,7 @@ func (am *AcquisitionMethod) UnmarshalJSON(data []byte) error {
 	if err := json.Unmarshal(data, &s); err != nil {
 		return err
 	}
-	switch config.DefaultConfig.Language {
+	switch config.DefaultConfig.DataFileLanguage {
 	case config.LanguageJapanese:
 		for k, v := range acquisitionMethodMapJa {
 			if v == s {

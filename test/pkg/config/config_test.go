@@ -1,7 +1,7 @@
 package config_test
 
 import (
-	"arknigths-tag-checker/pkg/config"
+	"arknights-tag-checker/pkg/config"
 	"testing"
 )
 

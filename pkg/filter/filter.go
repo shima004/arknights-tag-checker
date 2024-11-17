@@ -1,7 +1,7 @@
 package filter
 
 import (
-	"arknigths-tag-checker/pkg/model"
+	"arknights-tag-checker/pkg/model"
 )
 
 type TagFilter struct {

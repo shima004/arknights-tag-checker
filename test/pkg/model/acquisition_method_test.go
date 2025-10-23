@@ -57,9 +57,27 @@ func TestAcquisitionMethod_MarshalJSON(t *testing.T) {
 			wantErr: false,
 		},
 		{
+			name:    "CrossOverEvent",
+			method:  model.AMCrossOverEvent,
+			want:    `"コラボイベント"`,
+			wantErr: false,
+		},
+		{
 			name:    "Event",
 			method:  model.AMEvent,
 			want:    `"イベント"`,
+			wantErr: false,
+		},
+		{
+			name:    "PurchaseCertificateStore",
+			method:  model.AMPurchaseCertificateStore,
+			want:    `"購買資格証"`,
+			wantErr: false,
+		},
+		{
+			name:    "Anniversary",
+			method:  model.AMAnniversary,
+			want:    `"周年記念"`,
 			wantErr: false,
 		},
 	}
@@ -128,9 +146,27 @@ func TestAcquisitionMethod_UnmarshalJSON(t *testing.T) {
 			wantErr:      false,
 		},
 		{
+			name:         "CrossOverEvent",
+			stringMethod: `"コラボイベント"`,
+			want:         model.AMCrossOverEvent,
+			wantErr:      false,
+		},
+		{
 			name:         "Event",
 			stringMethod: `"イベント"`,
 			want:         model.AMEvent,
+			wantErr:      false,
+		},
+		{
+			name:         "PurchaseCertificateStore",
+			stringMethod: `"購買資格証"`,
+			want:         model.AMPurchaseCertificateStore,
+			wantErr:      false,
+		},
+		{
+			name:         "Anniversary",
+			stringMethod: `"周年記念"`,
+			want:         model.AMAnniversary,
 			wantErr:      false,
 		},
 		{

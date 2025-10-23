@@ -237,7 +237,7 @@
     "name": "Ash",
     "rarity": 6,
     "tags": ["狙撃タイプ", "遠距離", "火力"],
-    "acquisition_methods": ["スタンダードスカウト"]
+    "acquisition_methods": ["コラボスカウト"]
   },
   {
     "name": "W",
@@ -489,7 +489,7 @@
     "name": "Ela",
     "rarity": 6,
     "tags": ["特殊タイプ", "遠距離", "召喚", "牽制", "火力"],
-    "acquisition_methods": ["スタンダードスカウト"]
+    "acquisition_methods": ["コラボスカウト"]
   },
   {
     "name": "ア",
@@ -513,7 +513,7 @@
     "name": "キリンRヤトウ",
     "rarity": 6,
     "tags": ["特殊タイプ", "近距離", "高速再配置", "爆発力"],
-    "acquisition_methods": ["スタンダードスカウト"]
+    "acquisition_methods": ["コラボスカウト"]
   },
   {
     "name": "グレイディーア",
@@ -651,19 +651,19 @@
     "name": "Doc",
     "rarity": 5,
     "tags": ["前衛タイプ", "近距離", "治療", "支援"],
-    "acquisition_methods": ["スタンダードスカウト"]
+    "acquisition_methods": ["コラボスカウト"]
   },
   {
     "name": "Fuze",
     "rarity": 5,
     "tags": ["前衛タイプ", "近距離", "範囲攻撃", "生存"],
-    "acquisition_methods": ["スタンダードスカウト"]
+    "acquisition_methods": ["コラボイベント"]
   },
   {
     "name": "Tachanka",
     "rarity": 5,
     "tags": ["前衛タイプ", "近距離", "爆発力", "火力"],
-    "acquisition_methods": ["スタンダードスカウト"]
+    "acquisition_methods": ["コラボイベント"]
   },
   {
     "name": "アカフユ",
@@ -723,7 +723,7 @@
     "name": "サベージ",
     "rarity": 5,
     "tags": ["前衛タイプ", "近距離", "範囲攻撃", "爆発力"],
-    "acquisition_methods": ["スタンダードスカウト"]
+    "acquisition_methods": ["周年記念"]
   },
   {
     "name": "シデロカ",
@@ -819,13 +819,13 @@
     "name": "レウスSノイルホーン",
     "rarity": 5,
     "tags": ["前衛タイプ", "近距離", "生存", "火力"],
-    "acquisition_methods": ["スタンダードスカウト"]
+    "acquisition_methods": ["コラボスカウト"]
   },
   {
     "name": "Blitz",
     "rarity": 5,
     "tags": ["重装タイプ", "近距離", "防御", "火力"],
-    "acquisition_methods": ["スタンダードスカウト"]
+    "acquisition_methods": ["コラボスカウト"]
   },
   {
     "name": "アスベストス",
@@ -1359,13 +1359,13 @@
     "name": "Frost",
     "rarity": 5,
     "tags": ["特殊タイプ", "遠距離", "召喚", "牽制"],
-    "acquisition_methods": ["スタンダードスカウト"]
+    "acquisition_methods": ["コラボスカウト"]
   },
   {
     "name": "Iana",
     "rarity": 5,
     "tags": ["特殊タイプ", "近距離", "弱化", "高速再配置"],
-    "acquisition_methods": ["スタンダードスカウト"]
+    "acquisition_methods": ["コラボスカウト"]
   },
   {
     "name": "ウユウ",
@@ -1953,7 +1953,7 @@
     "name": "テラ大陸調査団",
     "rarity": 1,
     "tags": ["狙撃タイプ", "遠距離", "牽制"],
-    "acquisition_methods": ["イベント"]
+    "acquisition_methods": ["コラボイベント"]
   },
   {
     "name": "Lancet-2",

@@ -18,7 +18,11 @@ const (
 	AMLimitedHeadHuntingCarnival
 	AMPublicRecruitment
 	AMCrossOverHeadHunting
+	AMCrossOverEvent
 	AMEvent
+	AMIntegratedStrategies
+	AMPurchaseCertificateStore
+	AMAnniversary
 )
 
 var acquisitionMethodMapJa = map[AcquisitionMethod]string{
@@ -29,7 +33,10 @@ var acquisitionMethodMapJa = map[AcquisitionMethod]string{
 	AMLimitedHeadHuntingCarnival:    "リミテッドスカウト[遊]",
 	AMPublicRecruitment:             "公開求人",
 	AMCrossOverHeadHunting:          "コラボスカウト",
+	AMCrossOverEvent:                "コラボイベント",
 	AMEvent:                         "イベント",
+	AMPurchaseCertificateStore:      "購買資格証",
+	AMAnniversary:                   "周年記念",
 }
 
 var acquisitionMethodMapEn = map[AcquisitionMethod]string{
@@ -40,7 +47,10 @@ var acquisitionMethodMapEn = map[AcquisitionMethod]string{
 	AMLimitedHeadHuntingCarnival:    "Limited Head Hunting[Carnival]",
 	AMPublicRecruitment:             "Public Recruitment",
 	AMCrossOverHeadHunting:          "Cross Over Head Hunting",
+	AMCrossOverEvent:                "Cross Over Event",
 	AMEvent:                         "Event",
+	AMPurchaseCertificateStore:      "Purchase Certificate Store",
+	AMAnniversary:                   "Anniversary",
 }
 
 func (am AcquisitionMethod) String() string {

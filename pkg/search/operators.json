@@ -1,15 +1,159 @@
 [
   {
+    "name": "Ash",
+    "rarity": 6,
+    "tags": ["狙撃タイプ", "遠距離", "火力"],
+    "acquisition_methods": ["コラボスカウト"]
+  },
+  {
+    "name": "Ela",
+    "rarity": 6,
+    "tags": ["特殊タイプ", "遠距離", "召喚", "牽制", "火力"],
+    "acquisition_methods": ["コラボスカウト"]
+  },
+  {
+    "name": "Mon3tr",
+    "rarity": 6,
+    "tags": ["医療タイプ", "遠距離", "治療", "火力", "支援"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "W",
+    "rarity": 6,
+    "tags": ["狙撃タイプ", "遠距離", "火力", "牽制"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "ア",
+    "rarity": 6,
+    "tags": ["特殊タイプ", "遠距離", "支援", "火力"],
+    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
+  },
+  {
+    "name": "アイリーニ",
+    "rarity": 6,
+    "tags": ["前衛タイプ", "近距離", "火力", "爆発力", "牽制"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "アスカロン",
+    "rarity": 6,
+    "tags": ["特殊タイプ", "近距離", "減速", "火力"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "アルケット",
+    "rarity": 6,
+    "tags": ["狙撃タイプ", "遠距離", "火力"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "アンジェリーナ",
+    "rarity": 6,
+    "tags": ["補助タイプ", "遠距離", "減速", "火力", "支援"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
     "name": "イネス",
     "rarity": 6,
     "tags": ["先鋒タイプ", "近距離", "COST回復", "高速再配置"],
     "acquisition_methods": ["スタンダードスカウト"]
   },
   {
-    "name": "ヴィジェル",
+    "name": "イフリータ",
     "rarity": 6,
-    "tags": ["先鋒タイプ", "遠距離", "COST回復", "牽制"],
+    "tags": ["術師タイプ", "遠距離", "範囲攻撃", "弱化"],
+    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
+  },
+  {
+    "name": "ウィシャデル",
+    "rarity": 6,
+    "tags": ["狙撃タイプ", "遠距離", "火力"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "ウィーディ",
+    "rarity": 6,
+    "tags": ["特殊タイプ", "近距離", "強制移動", "火力", "牽制"],
+    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
+  },
+  {
+    "name": "ウルピアヌス",
+    "rarity": 6,
+    "tags": ["前衛タイプ", "近距離", "火力", "生存"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "ウルピスフォリア",
+    "rarity": 6,
+    "tags": ["先鋒タイプ", "近距離", "COST回復", "火力"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "エイヤフィヤトラ",
+    "rarity": 6,
+    "tags": ["術師タイプ", "遠距離", "火力", "弱化"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "エクシア",
+    "rarity": 6,
+    "tags": ["狙撃タイプ", "遠距離", "火力"],
+    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
+  },
+  {
+    "name": "エンテレケイア",
+    "rarity": 6,
+    "tags": ["前衛タイプ", "近距離", "火力", "生存"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "エーベンホルツ",
+    "rarity": 6,
+    "tags": ["術師タイプ", "遠距離", "火力"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "カーネリアン",
+    "rarity": 6,
+    "tags": ["術師タイプ", "遠距離", "範囲攻撃", "防御"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "キリンRヤトウ",
+    "rarity": 6,
+    "tags": ["特殊タイプ", "近距離", "高速再配置", "爆発力"],
+    "acquisition_methods": ["コラボスカウト"]
+  },
+  {
+    "name": "クラウンスレイヤー",
+    "rarity": 6,
+    "tags": ["特殊タイプ", "近距離", "高速再配置"],
     "acquisition_methods": ["イベント"]
+  },
+  {
+    "name": "グレイディーア",
+    "rarity": 6,
+    "tags": ["特殊タイプ", "近距離", "強制移動", "火力", "牽制"],
+    "acquisition_methods": ["イベント"]
+  },
+  {
+    "name": "ケオベ",
+    "rarity": 6,
+    "tags": ["術師タイプ", "遠距離", "火力", "牽制"],
+    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
+  },
+  {
+    "name": "ケルシー",
+    "rarity": 6,
+    "tags": ["医療タイプ", "遠距離", "召喚", "治療"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "ゴールデングロー",
+    "rarity": 6,
+    "tags": ["術師タイプ", "遠距離", "火力"],
+    "acquisition_methods": ["スタンダードスカウト"]
   },
   {
     "name": "サイラッハ",
@@ -24,45 +168,57 @@
     "acquisition_methods": ["スタンダードスカウト"]
   },
   {
-    "name": "シージ",
+    "name": "サリア",
     "rarity": 6,
-    "tags": ["先鋒タイプ", "近距離", "COST回復", "火力"],
+    "tags": ["重装タイプ", "近距離", "防御", "治療", "支援"],
     "acquisition_methods": ["スタンダードスカウト", "公開求人"]
   },
   {
-    "name": "バグパイプ",
+    "name": "サンクタ・ミキサー",
     "rarity": 6,
-    "tags": ["先鋒タイプ", "近距離", "COST回復", "火力"],
+    "tags": ["重装タイプ", "近距離", "防御", "火力", "支援"],
+    "acquisition_methods": ["イベント"]
+  },
+  {
+    "name": "シャイニング",
+    "rarity": 6,
+    "tags": ["医療タイプ", "遠距離", "治療", "支援"],
     "acquisition_methods": ["スタンダードスカウト", "公開求人"]
   },
   {
-    "name": "フレイムテイル",
+    "name": "シュウ",
     "rarity": 6,
-    "tags": ["先鋒タイプ", "近距離", "COST回復", "生存"],
+    "tags": ["重装タイプ", "近距離", "防御", "治療", "支援"],
     "acquisition_methods": ["スタンダードスカウト"]
   },
   {
-    "name": "ミュルジス",
+    "name": "シュヴァルツ",
     "rarity": 6,
-    "tags": ["先鋒タイプ", "遠距離", "COST回復", "牽制"],
-    "acquisition_methods": ["スタンダードスカウト"]
-  },
-  {
-    "name": "アイリーニ",
-    "rarity": 6,
-    "tags": ["前衛タイプ", "近距離", "火力", "爆発力", "牽制"],
-    "acquisition_methods": ["スタンダードスカウト"]
-  },
-  {
-    "name": "ヴィヴィアナ",
-    "rarity": 6,
-    "tags": ["前衛タイプ", "近距離", "火力", "生存"],
-    "acquisition_methods": ["スタンダードスカウト"]
+    "tags": ["狙撃タイプ", "遠距離", "火力"],
+    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
   },
   {
     "name": "シルバーアッシュ",
     "rarity": 6,
     "tags": ["前衛タイプ", "近距離", "火力", "支援"],
+    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
+  },
+  {
+    "name": "シヴィライト・エテルナ",
+    "rarity": 6,
+    "tags": ["補助タイプ", "遠距離", "支援", "生存", "火力"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "シー",
+    "rarity": 6,
+    "tags": ["術師タイプ", "遠距離", "範囲攻撃", "火力", "牽制"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "シージ",
+    "rarity": 6,
+    "tags": ["先鋒タイプ", "近距離", "COST回復", "火力"],
     "acquisition_methods": ["スタンダードスカウト", "公開求人"]
   },
   {
@@ -72,9 +228,15 @@
     "acquisition_methods": ["スタンダードスカウト", "公開求人"]
   },
   {
-    "name": "ズオ・ラウ",
+    "name": "スズラン",
     "rarity": 6,
-    "tags": ["前衛タイプ", "近距離", "火力", "生存"],
+    "tags": ["補助タイプ", "遠距離", "減速", "支援", "火力"],
+    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
+  },
+  {
+    "name": "ステインレス",
+    "rarity": 6,
+    "tags": ["補助タイプ", "近距離", "火力", "支援"],
     "acquisition_methods": ["スタンダードスカウト"]
   },
   {
@@ -82,6 +244,12 @@
     "rarity": 6,
     "tags": ["前衛タイプ", "近距離", "火力"],
     "acquisition_methods": ["スタンダードスカウト", "公開求人"]
+  },
+  {
+    "name": "ズオ・ラウ",
+    "rarity": 6,
+    "tags": ["前衛タイプ", "近距離", "火力", "生存"],
+    "acquisition_methods": ["スタンダードスカウト"]
   },
   {
     "name": "ソーンズ",
@@ -108,9 +276,75 @@
     "acquisition_methods": ["スタンダードスカウト"]
   },
   {
+    "name": "ティフォン",
+    "rarity": 6,
+    "tags": ["狙撃タイプ", "遠距離", "火力"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
     "name": "デーゲンブレヒャー",
     "rarity": 6,
     "tags": ["前衛タイプ", "近距離", "爆発力", "火力", "弱化"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "ドロシー",
+    "rarity": 6,
+    "tags": ["特殊タイプ", "遠距離", "召喚", "牽制"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "ナイチンゲール",
+    "rarity": 6,
+    "tags": ["医療タイプ", "遠距離", "治療", "支援"],
+    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
+  },
+  {
+    "name": "ナラントゥヤ",
+    "rarity": 6,
+    "tags": ["狙撃タイプ", "遠距離", "火力"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "ニェン",
+    "rarity": 6,
+    "tags": ["重装タイプ", "近距離", "防御", "支援"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "ニンフ",
+    "rarity": 6,
+    "tags": ["術師タイプ", "遠距離", "元素", "火力", "牽制"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "ネクラス",
+    "rarity": 6,
+    "tags": ["術師タイプ", "遠距離", "召喚", "火力"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "ノーシス",
+    "rarity": 6,
+    "tags": ["補助タイプ", "遠距離", "弱化"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "バグパイプ",
+    "rarity": 6,
+    "tags": ["先鋒タイプ", "近距離", "COST回復", "火力"],
+    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
+  },
+  {
+    "name": "パゼオンカ",
+    "rarity": 6,
+    "tags": ["狙撃タイプ", "遠距離", "火力"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "パッセンジャー",
+    "rarity": 6,
+    "tags": ["術師タイプ", "遠距離", "火力"],
     "acquisition_methods": ["スタンダードスカウト"]
   },
   {
@@ -120,9 +354,39 @@
     "acquisition_methods": ["スタンダードスカウト"]
   },
   {
+    "name": "ファントム",
+    "rarity": 6,
+    "tags": ["特殊タイプ", "近距離", "高速再配置", "牽制", "火力"],
+    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
+  },
+  {
+    "name": "ファートゥース",
+    "rarity": 6,
+    "tags": ["狙撃タイプ", "遠距離", "火力"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "フィアメッタ",
+    "rarity": 6,
+    "tags": ["狙撃タイプ", "遠距離", "火力"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "フレイムテイル",
+    "rarity": 6,
+    "tags": ["先鋒タイプ", "近距離", "COST回復", "生存"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
     "name": "ブレイズ",
     "rarity": 6,
     "tags": ["前衛タイプ", "近距離", "火力", "生存"],
+    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
+  },
+  {
+    "name": "ブレミシャイン",
+    "rarity": 6,
+    "tags": ["重装タイプ", "近距離", "火力", "防御", "治療"],
     "acquisition_methods": ["スタンダードスカウト", "公開求人"]
   },
   {
@@ -138,9 +402,69 @@
     "acquisition_methods": ["スタンダードスカウト", "公開求人"]
   },
   {
+    "name": "ペナンス",
+    "rarity": 6,
+    "tags": ["重装タイプ", "近距離", "生存", "火力"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "ペペ",
+    "rarity": 6,
+    "tags": ["前衛タイプ", "近距離", "火力", "牽制"],
+    "acquisition_methods": ["リミテッドスカウト[遊]"]
+  },
+  {
+    "name": "ホシグマ",
+    "rarity": 6,
+    "tags": ["重装タイプ", "近距離", "防御", "火力"],
+    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
+  },
+  {
+    "name": "ホルハイヤ",
+    "rarity": 6,
+    "tags": ["術師タイプ", "遠距離", "火力", "牽制"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "ホルン",
+    "rarity": 6,
+    "tags": ["重装タイプ", "近距離", "火力", "防御"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
     "name": "マウンテン",
     "rarity": 6,
     "tags": ["前衛タイプ", "近距離", "火力", "生存"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "マゼラン",
+    "rarity": 6,
+    "tags": ["補助タイプ", "遠距離", "支援", "減速", "火力"],
+    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
+  },
+  {
+    "name": "マドロック",
+    "rarity": 6,
+    "tags": ["重装タイプ", "近距離", "生存", "防御", "火力"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "マルシル",
+    "rarity": 6,
+    "tags": ["術師タイプ", "遠距離", "範囲攻撃", "治療", "牽制"],
+    "acquisition_methods": ["コラボスカウト"]
+  },
+  {
+    "name": "ミヅキ",
+    "rarity": 6,
+    "tags": ["特殊タイプ", "近距離", "火力", "牽制"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "ミュルジス",
+    "rarity": 6,
+    "tags": ["先鋒タイプ", "遠距離", "COST回復", "牽制"],
     "acquisition_methods": ["スタンダードスカウト"]
   },
   {
@@ -150,76 +474,16 @@
     "acquisition_methods": ["スタンダードスカウト"]
   },
   {
-    "name": "レッシング",
+    "name": "モスティマ",
     "rarity": 6,
-    "tags": ["前衛タイプ", "近距離", "火力"],
-    "acquisition_methods": ["イベント"]
-  },
-  {
-    "name": "聖約イグゼキュター",
-    "rarity": 6,
-    "tags": ["前衛タイプ", "近距離", "火力"],
-    "acquisition_methods": ["スタンダードスカウト"]
-  },
-  {
-    "name": "百錬ガヴィル",
-    "rarity": 6,
-    "tags": ["前衛タイプ", "近距離", "爆発力", "火力", "生存"],
-    "acquisition_methods": ["スタンダードスカウト"]
-  },
-  {
-    "name": "耀騎士ニアール",
-    "rarity": 6,
-    "tags": ["前衛タイプ", "近距離", "火力"],
-    "acquisition_methods": ["スタンダードスカウト"]
-  },
-  {
-    "name": "サリア",
-    "rarity": 6,
-    "tags": ["重装タイプ", "近距離", "防御", "治療", "支援"],
+    "tags": ["術師タイプ", "遠距離", "範囲攻撃", "支援", "牽制"],
     "acquisition_methods": ["スタンダードスカウト", "公開求人"]
   },
   {
-    "name": "シュウ",
+    "name": "ユー",
     "rarity": 6,
-    "tags": ["重装タイプ", "近距離", "防御", "治療", "支援"],
-    "acquisition_methods": ["スタンダードスカウト"]
-  },
-  {
-    "name": "ニェン",
-    "rarity": 6,
-    "tags": ["重装タイプ", "近距離", "防御", "支援"],
-    "acquisition_methods": ["スタンダードスカウト"]
-  },
-  {
-    "name": "ブレミシャイン",
-    "rarity": 6,
-    "tags": ["重装タイプ", "近距離", "火力", "防御", "治療"],
-    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
-  },
-  {
-    "name": "ペナンス",
-    "rarity": 6,
-    "tags": ["重装タイプ", "近距離", "生存", "火力"],
-    "acquisition_methods": ["スタンダードスカウト"]
-  },
-  {
-    "name": "ホシグマ",
-    "rarity": 6,
-    "tags": ["重装タイプ", "近距離", "防御", "火力"],
-    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
-  },
-  {
-    "name": "ホルン",
-    "rarity": 6,
-    "tags": ["重装タイプ", "近距離", "火力", "防御"],
-    "acquisition_methods": ["スタンダードスカウト"]
-  },
-  {
-    "name": "マドロック",
-    "rarity": 6,
-    "tags": ["重装タイプ", "近距離", "生存", "防御", "火力"],
-    "acquisition_methods": ["スタンダードスカウト"]
+    "tags": ["重装タイプ", "近距離", "元素", "防御"],
+    "acquisition_methods": ["リミテッドスカウト[宴]"]
   },
   {
     "name": "ユーネクテス",
@@ -228,75 +492,51 @@
     "acquisition_methods": ["スタンダードスカウト", "公開求人"]
   },
   {
-    "name": "滌火ジェシカ",
+    "name": "リィン",
     "rarity": 6,
-    "tags": ["重装タイプ", "近距離", "防御", "生存", "火力"],
+    "tags": ["補助タイプ", "遠距離", "召喚", "支援", "牽制"],
     "acquisition_methods": ["スタンダードスカウト"]
   },
   {
-    "name": "Ash",
+    "name": "リン",
     "rarity": 6,
-    "tags": ["狙撃タイプ", "遠距離", "火力"],
-    "acquisition_methods": ["コラボスカウト"]
-  },
-  {
-    "name": "W",
-    "rarity": 6,
-    "tags": ["狙撃タイプ", "遠距離", "火力", "牽制"],
+    "tags": ["術師タイプ", "遠距離", "範囲攻撃", "防御"],
     "acquisition_methods": ["スタンダードスカウト"]
   },
   {
-    "name": "アルケット",
+    "name": "リー",
     "rarity": 6,
-    "tags": ["狙撃タイプ", "遠距離", "火力"],
+    "tags": ["特殊タイプ", "近距離", "高速再配置", "生存", "火力"],
     "acquisition_methods": ["スタンダードスカウト"]
   },
   {
-    "name": "ウィシャデル",
+    "name": "ルーメン",
     "rarity": 6,
-    "tags": ["狙撃タイプ", "遠距離", "火力"],
-    "acquisition_methods": ["スタンダードスカウト"]
-  },
-  {
-    "name": "エクシア",
-    "rarity": 6,
-    "tags": ["狙撃タイプ", "遠距離", "火力"],
-    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
-  },
-  {
-    "name": "シュヴァルツ",
-    "rarity": 6,
-    "tags": ["狙撃タイプ", "遠距離", "火力"],
-    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
-  },
-  {
-    "name": "ティフォン",
-    "rarity": 6,
-    "tags": ["狙撃タイプ", "遠距離", "火力"],
-    "acquisition_methods": ["スタンダードスカウト"]
-  },
-  {
-    "name": "パゼオンカ",
-    "rarity": 6,
-    "tags": ["狙撃タイプ", "遠距離", "火力"],
-    "acquisition_methods": ["スタンダードスカウト"]
-  },
-  {
-    "name": "ファートゥース",
-    "rarity": 6,
-    "tags": ["狙撃タイプ", "遠距離", "火力"],
-    "acquisition_methods": ["スタンダードスカウト"]
-  },
-  {
-    "name": "フィアメッタ",
-    "rarity": 6,
-    "tags": ["狙撃タイプ", "遠距離", "火力"],
-    "acquisition_methods": ["スタンダードスカウト"]
+    "tags": ["医療タイプ", "遠距離", "治療", "支援"],
+    "acquisition_methods": ["イベント"]
   },
   {
     "name": "レイ",
     "rarity": 6,
     "tags": ["狙撃タイプ", "遠距離", "火力"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "レッシング",
+    "rarity": 6,
+    "tags": ["前衛タイプ", "近距離", "火力"],
+    "acquisition_methods": ["イベント"]
+  },
+  {
+    "name": "レミュアン",
+    "rarity": 6,
+    "tags": ["狙撃タイプ", "遠距離", "火力", "爆発力"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "ロゴス",
+    "rarity": 6,
+    "tags": ["術師タイプ", "遠距離", "火力"],
     "acquisition_methods": ["スタンダードスカウト"]
   },
   {
@@ -312,124 +552,10 @@
     "acquisition_methods": ["スタンダードスカウト"]
   },
   {
-    "name": "遊龍チェン",
+    "name": "ヴィジェル",
     "rarity": 6,
-    "tags": ["狙撃タイプ", "遠距離", "火力", "範囲攻撃"],
-    "acquisition_methods": ["スタンダードスカウト"]
-  },
-  {
-    "name": "イフリータ",
-    "rarity": 6,
-    "tags": ["術師タイプ", "遠距離", "範囲攻撃", "弱化"],
-    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
-  },
-  {
-    "name": "エイヤフィヤトラ",
-    "rarity": 6,
-    "tags": ["術師タイプ", "遠距離", "火力", "弱化"],
-    "acquisition_methods": ["スタンダードスカウト"]
-  },
-  {
-    "name": "エーベンホルツ",
-    "rarity": 6,
-    "tags": ["術師タイプ", "遠距離", "火力"],
-    "acquisition_methods": ["スタンダードスカウト"]
-  },
-  {
-    "name": "カーネリアン",
-    "rarity": 6,
-    "tags": ["術師タイプ", "遠距離", "範囲攻撃", "防御"],
-    "acquisition_methods": ["スタンダードスカウト"]
-  },
-  {
-    "name": "ケオベ",
-    "rarity": 6,
-    "tags": ["術師タイプ", "遠距離", "火力", "牽制"],
-    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
-  },
-  {
-    "name": "ゴールデングロー",
-    "rarity": 6,
-    "tags": ["術師タイプ", "遠距離", "火力"],
-    "acquisition_methods": ["スタンダードスカウト"]
-  },
-  {
-    "name": "シー",
-    "rarity": 6,
-    "tags": ["術師タイプ", "遠距離", "範囲攻撃", "火力", "牽制"],
-    "acquisition_methods": ["スタンダードスカウト"]
-  },
-  {
-    "name": "パッセンジャー",
-    "rarity": 6,
-    "tags": ["術師タイプ", "遠距離", "火力"],
-    "acquisition_methods": ["スタンダードスカウト"]
-  },
-  {
-    "name": "ホルハイヤ",
-    "rarity": 6,
-    "tags": ["術師タイプ", "遠距離", "火力", "牽制"],
-    "acquisition_methods": ["スタンダードスカウト"]
-  },
-  {
-    "name": "モスティマ",
-    "rarity": 6,
-    "tags": ["術師タイプ", "遠距離", "範囲攻撃", "支援", "牽制"],
-    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
-  },
-  {
-    "name": "リン",
-    "rarity": 6,
-    "tags": ["術師タイプ", "遠距離", "範囲攻撃", "防御"],
-    "acquisition_methods": ["スタンダードスカウト"]
-  },
-  {
-    "name": "ロゴス",
-    "rarity": 6,
-    "tags": ["術師タイプ", "遠距離", "火力"],
-    "acquisition_methods": ["スタンダードスカウト"]
-  },
-  {
-    "name": "ケルシー",
-    "rarity": 6,
-    "tags": ["医療タイプ", "遠距離", "召喚", "治療"],
-    "acquisition_methods": ["スタンダードスカウト"]
-  },
-  {
-    "name": "シャイニング",
-    "rarity": 6,
-    "tags": ["医療タイプ", "遠距離", "治療", "支援"],
-    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
-  },
-  {
-    "name": "ナイチンゲール",
-    "rarity": 6,
-    "tags": ["医療タイプ", "遠距離", "治療", "支援"],
-    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
-  },
-  {
-    "name": "ルーメン",
-    "rarity": 6,
-    "tags": ["医療タイプ", "遠距離", "治療", "支援"],
+    "tags": ["先鋒タイプ", "遠距離", "COST回復", "牽制"],
     "acquisition_methods": ["イベント"]
-  },
-  {
-    "name": "焔影リード",
-    "rarity": 6,
-    "tags": ["医療タイプ", "遠距離", "治療", "火力", "弱化"],
-    "acquisition_methods": ["スタンダードスカウト"]
-  },
-  {
-    "name": "純燼エイヤフィヤトラ",
-    "rarity": 6,
-    "tags": ["医療タイプ", "遠距離", "治療"],
-    "acquisition_methods": ["スタンダードスカウト"]
-  },
-  {
-    "name": "アンジェリーナ",
-    "rarity": 6,
-    "tags": ["補助タイプ", "遠距離", "減速", "火力", "支援"],
-    "acquisition_methods": ["スタンダードスカウト"]
   },
   {
     "name": "ヴィルトゥオーサ",
@@ -438,111 +564,15 @@
     "acquisition_methods": ["スタンダードスカウト"]
   },
   {
-    "name": "シヴィライト・エテルナ",
+    "name": "ヴィヴィアナ",
     "rarity": 6,
-    "tags": ["補助タイプ", "遠距離", "支援", "生存", "火力"],
+    "tags": ["前衛タイプ", "近距離", "火力", "生存"],
     "acquisition_methods": ["スタンダードスカウト"]
   },
   {
-    "name": "スズラン",
+    "name": "ヴィーナ・ヴィクトリア",
     "rarity": 6,
-    "tags": ["補助タイプ", "遠距離", "減速", "支援", "火力"],
-    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
-  },
-  {
-    "name": "ステインレス",
-    "rarity": 6,
-    "tags": ["補助タイプ", "近距離", "火力", "支援"],
-    "acquisition_methods": ["スタンダードスカウト"]
-  },
-  {
-    "name": "ノーシス",
-    "rarity": 6,
-    "tags": ["補助タイプ", "遠距離", "弱化"],
-    "acquisition_methods": ["スタンダードスカウト"]
-  },
-  {
-    "name": "マゼラン",
-    "rarity": 6,
-    "tags": ["補助タイプ", "遠距離", "支援", "減速", "火力"],
-    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
-  },
-  {
-    "name": "リィン",
-    "rarity": 6,
-    "tags": ["補助タイプ", "遠距離", "召喚", "支援", "牽制"],
-    "acquisition_methods": ["スタンダードスカウト"]
-  },
-  {
-    "name": "淬羽サイレンス",
-    "rarity": 6,
-    "tags": ["補助タイプ", "遠距離", "支援", "生存", "治療"],
-    "acquisition_methods": ["イベント"]
-  },
-  {
-    "name": "濁心スカジ",
-    "rarity": 6,
-    "tags": ["補助タイプ", "遠距離", "支援", "生存", "火力"],
-    "acquisition_methods": ["スタンダードスカウト"]
-  },
-  {
-    "name": "Ela",
-    "rarity": 6,
-    "tags": ["特殊タイプ", "遠距離", "召喚", "牽制", "火力"],
-    "acquisition_methods": ["コラボスカウト"]
-  },
-  {
-    "name": "ア",
-    "rarity": 6,
-    "tags": ["特殊タイプ", "遠距離", "支援", "火力"],
-    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
-  },
-  {
-    "name": "アスカロン",
-    "rarity": 6,
-    "tags": ["特殊タイプ", "近距離", "減速", "火力"],
-    "acquisition_methods": ["スタンダードスカウト"]
-  },
-  {
-    "name": "ウィーディ",
-    "rarity": 6,
-    "tags": ["特殊タイプ", "近距離", "強制移動", "火力", "牽制"],
-    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
-  },
-  {
-    "name": "キリンRヤトウ",
-    "rarity": 6,
-    "tags": ["特殊タイプ", "近距離", "高速再配置", "爆発力"],
-    "acquisition_methods": ["コラボスカウト"]
-  },
-  {
-    "name": "グレイディーア",
-    "rarity": 6,
-    "tags": ["特殊タイプ", "近距離", "強制移動", "火力", "牽制"],
-    "acquisition_methods": ["イベント"]
-  },
-  {
-    "name": "ドロシー",
-    "rarity": 6,
-    "tags": ["特殊タイプ", "遠距離", "召喚", "牽制"],
-    "acquisition_methods": ["スタンダードスカウト"]
-  },
-  {
-    "name": "ファントム",
-    "rarity": 6,
-    "tags": ["特殊タイプ", "近距離", "高速再配置", "牽制", "火力"],
-    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
-  },
-  {
-    "name": "ミヅキ",
-    "rarity": 6,
-    "tags": ["特殊タイプ", "近距離", "火力", "牽制"],
-    "acquisition_methods": ["スタンダードスカウト"]
-  },
-  {
-    "name": "リー",
-    "rarity": 6,
-    "tags": ["特殊タイプ", "近距離", "高速再配置", "生存", "火力"],
+    "tags": ["前衛タイプ", "近距離", "火力", "生存"],
     "acquisition_methods": ["スタンダードスカウト"]
   },
   {
@@ -552,9 +582,45 @@
     "acquisition_methods": ["スタンダードスカウト"]
   },
   {
-    "name": "血掟テキサス",
+    "name": "引星ソーンズ",
     "rarity": 6,
-    "tags": ["特殊タイプ", "近距離", "高速再配置", "火力"],
+    "tags": ["特殊タイプ", "遠距離", "火力", "支援", "弱化"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "新約エクシア",
+    "rarity": 6,
+    "tags": ["特殊タイプ", "遠距離", "火力", "支援"],
+    "acquisition_methods": ["リミテッドスカウト[祭]"]
+  },
+  {
+    "name": "淬羽サイレンス",
+    "rarity": 6,
+    "tags": ["補助タイプ", "遠距離", "支援", "生存", "治療"],
+    "acquisition_methods": ["イベント"]
+  },
+  {
+    "name": "滌火ジェシカ",
+    "rarity": 6,
+    "tags": ["重装タイプ", "近距離", "防御", "生存", "火力"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "濁心スカジ",
+    "rarity": 6,
+    "tags": ["補助タイプ", "遠距離", "支援", "生存", "火力"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "焔影リード",
+    "rarity": 6,
+    "tags": ["医療タイプ", "遠距離", "治療", "火力", "弱化"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "熾炎ブレイズ",
+    "rarity": 6,
+    "tags": ["術師タイプ", "遠距離", "元素", "火力", "範囲攻撃"],
     "acquisition_methods": ["スタンダードスカウト"]
   },
   {
@@ -564,93 +630,63 @@
     "acquisition_methods": ["スタンダードスカウト"]
   },
   {
-    "name": "エリジウム",
-    "rarity": 5,
-    "tags": ["先鋒タイプ", "近距離", "COST回復", "支援"],
-    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
-  },
-  {
-    "name": "カンタービレ",
-    "rarity": 5,
-    "tags": ["先鋒タイプ", "近距離", "COST回復", "高速再配置"],
+    "name": "百錬ガヴィル",
+    "rarity": 6,
+    "tags": ["前衛タイプ", "近距離", "爆発力", "火力", "生存"],
     "acquisition_methods": ["スタンダードスカウト"]
   },
   {
-    "name": "キアーベ",
-    "rarity": 5,
-    "tags": ["先鋒タイプ", "近距離", "COST回復", "火力"],
-    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
-  },
-  {
-    "name": "グラニ",
-    "rarity": 5,
-    "tags": ["先鋒タイプ", "近距離", "COST回復", "防御"],
-    "acquisition_methods": ["イベント"]
-  },
-  {
-    "name": "ケストレル",
-    "rarity": 5,
-    "tags": ["先鋒タイプ", "近距離", "COST回復", "火力"],
+    "name": "純燼エイヤフィヤトラ",
+    "rarity": 6,
+    "tags": ["医療タイプ", "遠距離", "治療"],
     "acquisition_methods": ["スタンダードスカウト"]
   },
   {
-    "name": "ズィマー",
-    "rarity": 5,
-    "tags": ["先鋒タイプ", "近距離", "COST回復", "支援"],
-    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
-  },
-  {
-    "name": "テキサス",
-    "rarity": 5,
-    "tags": ["先鋒タイプ", "近距離", "COST回復", "牽制"],
-    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
-  },
-  {
-    "name": "パズル",
-    "rarity": 5,
-    "tags": ["先鋒タイプ", "近距離", "COST回復", "高速再配置"],
+    "name": "耀騎士ニアール",
+    "rarity": 6,
+    "tags": ["前衛タイプ", "近距離", "火力"],
     "acquisition_methods": ["スタンダードスカウト"]
   },
   {
-    "name": "ブラックナイト",
-    "rarity": 5,
-    "tags": ["先鋒タイプ", "遠距離", "COST回復", "牽制"],
+    "name": "聖約イグゼキュター",
+    "rarity": 6,
+    "tags": ["前衛タイプ", "近距離", "火力"],
     "acquisition_methods": ["スタンダードスカウト"]
   },
   {
-    "name": "ポンシラス",
-    "rarity": 5,
-    "tags": ["先鋒タイプ", "近距離", "COST回復", "防御"],
+    "name": "荒蕪ラップランド",
+    "rarity": 6,
+    "tags": ["術師タイプ", "遠距離", "火力", "弱化"],
+    "acquisition_methods": ["リミテッドスカウト[祭]"]
+  },
+  {
+    "name": "血掟テキサス",
+    "rarity": 6,
+    "tags": ["特殊タイプ", "近距離", "高速再配置", "火力"],
     "acquisition_methods": ["スタンダードスカウト"]
   },
   {
-    "name": "リード",
-    "rarity": 5,
-    "tags": ["先鋒タイプ", "近距離", "COST回復", "火力"],
-    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
-  },
-  {
-    "name": "ワイルドメイン",
-    "rarity": 5,
-    "tags": ["先鋒タイプ", "近距離", "COST回復", "火力"],
-    "acquisition_methods": ["イベント"]
-  },
-  {
-    "name": "ワンチィン",
-    "rarity": 5,
-    "tags": ["先鋒タイプ", "近距離", "COST回復", "支援"],
-    "acquisition_methods": ["イベント"]
-  },
-  {
-    "name": "歴陣鋭槍フェン",
-    "rarity": 5,
-    "tags": ["先鋒タイプ", "近距離", "COST回復", "火力"],
+    "name": "遊龍チェン",
+    "rarity": 6,
+    "tags": ["狙撃タイプ", "遠距離", "火力", "範囲攻撃"],
     "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "Blitz",
+    "rarity": 5,
+    "tags": ["重装タイプ", "近距離", "防御", "火力"],
+    "acquisition_methods": ["コラボスカウト"]
   },
   {
     "name": "Doc",
     "rarity": 5,
     "tags": ["前衛タイプ", "近距離", "治療", "支援"],
+    "acquisition_methods": ["コラボスカウト"]
+  },
+  {
+    "name": "Frost",
+    "rarity": 5,
+    "tags": ["特殊タイプ", "遠距離", "召喚", "牽制"],
     "acquisition_methods": ["コラボスカウト"]
   },
   {
@@ -660,10 +696,28 @@
     "acquisition_methods": ["コラボイベント"]
   },
   {
+    "name": "Iana",
+    "rarity": 5,
+    "tags": ["特殊タイプ", "近距離", "弱化", "高速再配置"],
+    "acquisition_methods": ["コラボスカウト"]
+  },
+  {
     "name": "Tachanka",
     "rarity": 5,
     "tags": ["前衛タイプ", "近距離", "爆発力", "火力"],
     "acquisition_methods": ["コラボイベント"]
+  },
+  {
+    "name": "アイリス",
+    "rarity": 5,
+    "tags": ["術師タイプ", "遠距離", "火力"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "アオスタ",
+    "rarity": 5,
+    "tags": ["狙撃タイプ", "遠距離", "範囲攻撃"],
+    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
   },
   {
     "name": "アカフユ",
@@ -678,249 +732,15 @@
     "acquisition_methods": ["スタンダードスカウト", "公開求人"]
   },
   {
-    "name": "アーミヤ",
+    "name": "アステジーニ",
     "rarity": 5,
-    "tags": ["前衛タイプ", "近距離", "火力", "支援"],
-    "acquisition_methods": ["スタンダードスカウト"]
-  },
-  {
-    "name": "インドラ",
-    "rarity": 5,
-    "tags": ["前衛タイプ", "近距離", "火力", "生存"],
-    "acquisition_methods": ["公開求人"]
-  },
-  {
-    "name": "ウィスラッシュ",
-    "rarity": 5,
-    "tags": ["前衛タイプ", "近距離", "火力", "支援"],
+    "tags": ["術師タイプ", "遠距離", "火力"],
     "acquisition_methods": ["イベント"]
-  },
-  {
-    "name": "ウィンドチャイム",
-    "rarity": 5,
-    "tags": ["前衛タイプ", "近距離", "火力"],
-    "acquisition_methods": ["スタンダードスカウト"]
-  },
-  {
-    "name": "エアースカーペ",
-    "rarity": 5,
-    "tags": ["前衛タイプ", "近距離", "火力", "範囲攻撃"],
-    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
-  },
-  {
-    "name": "エンカク",
-    "rarity": 5,
-    "tags": ["前衛タイプ", "近距離", "火力", "生存"],
-    "acquisition_methods": ["イベント"]
-  },
-  {
-    "name": "オッダ",
-    "rarity": 5,
-    "tags": ["前衛タイプ", "近距離", "範囲攻撃", "牽制"],
-    "acquisition_methods": ["イベント"]
-  },
-  {
-    "name": "サベージ",
-    "rarity": 5,
-    "tags": ["前衛タイプ", "近距離", "範囲攻撃", "爆発力"],
-    "acquisition_methods": ["周年記念"]
-  },
-  {
-    "name": "シデロカ",
-    "rarity": 5,
-    "tags": ["前衛タイプ", "近距離", "生存", "火力"],
-    "acquisition_methods": ["イベント"]
-  },
-  {
-    "name": "スペクター",
-    "rarity": 5,
-    "tags": ["前衛タイプ", "近距離", "範囲攻撃", "生存"],
-    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
-  },
-  {
-    "name": "スワイヤー",
-    "rarity": 5,
-    "tags": ["前衛タイプ", "近距離", "火力", "支援"],
-    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
-  },
-  {
-    "name": "ダグザ",
-    "rarity": 5,
-    "tags": ["前衛タイプ", "近距離", "火力", "生存"],
-    "acquisition_methods": ["スタンダードスカウト"]
-  },
-  {
-    "name": "テキーラ",
-    "rarity": 5,
-    "tags": ["前衛タイプ", "近距離", "爆発力"],
-    "acquisition_methods": ["イベント"]
-  },
-  {
-    "name": "バイビーク",
-    "rarity": 5,
-    "tags": ["前衛タイプ", "近距離", "爆発力", "火力"],
-    "acquisition_methods": ["スタンダードスカウト"]
-  },
-  {
-    "name": "ハイモア",
-    "rarity": 5,
-    "tags": ["前衛タイプ", "近距離", "火力"],
-    "acquisition_methods": ["スタンダードスカウト"]
-  },
-  {
-    "name": "フランカ",
-    "rarity": 5,
-    "tags": ["前衛タイプ", "近距離", "火力", "生存"],
-    "acquisition_methods": ["スタンダードスカウト"]
-  },
-  {
-    "name": "ブライオファイタ",
-    "rarity": 5,
-    "tags": ["前衛タイプ", "近距離", "火力", "支援"],
-    "acquisition_methods": ["イベント"]
-  },
-  {
-    "name": "フリント",
-    "rarity": 5,
-    "tags": ["前衛タイプ", "近距離", "火力"],
-    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
-  },
-  {
-    "name": "ブローカ",
-    "rarity": 5,
-    "tags": ["前衛タイプ", "近距離", "範囲攻撃", "生存"],
-    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
-  },
-  {
-    "name": "モーガン",
-    "rarity": 5,
-    "tags": ["前衛タイプ", "近距離", "火力"],
-    "acquisition_methods": ["スタンダードスカウト"]
-  },
-  {
-    "name": "ラ・プルマ",
-    "rarity": 5,
-    "tags": ["前衛タイプ", "近距離", "火力"],
-    "acquisition_methods": ["スタンダードスカウト"]
-  },
-  {
-    "name": "ラップランド",
-    "rarity": 5,
-    "tags": ["前衛タイプ", "近距離", "火力", "弱化"],
-    "acquisition_methods": ["スタンダードスカウト"]
-  },
-  {
-    "name": "リェータ",
-    "rarity": 5,
-    "tags": ["前衛タイプ", "近距離", "火力", "支援"],
-    "acquisition_methods": ["スタンダードスカウト"]
-  },
-  {
-    "name": "レウスSノイルホーン",
-    "rarity": 5,
-    "tags": ["前衛タイプ", "近距離", "生存", "火力"],
-    "acquisition_methods": ["コラボスカウト"]
-  },
-  {
-    "name": "Blitz",
-    "rarity": 5,
-    "tags": ["重装タイプ", "近距離", "防御", "火力"],
-    "acquisition_methods": ["コラボスカウト"]
   },
   {
     "name": "アスベストス",
     "rarity": 5,
     "tags": ["重装タイプ", "近距離", "防御", "火力"],
-    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
-  },
-  {
-    "name": "アッシュロック",
-    "rarity": 5,
-    "tags": ["重装タイプ", "近距離", "火力", "防御"],
-    "acquisition_methods": ["スタンダードスカウト"]
-  },
-  {
-    "name": "ヴァルカン",
-    "rarity": 5,
-    "tags": ["重装タイプ", "近距離", "生存", "防御", "火力"],
-    "acquisition_methods": ["公開求人"]
-  },
-  {
-    "name": "ウン",
-    "rarity": 5,
-    "tags": ["重装タイプ", "近距離", "防御", "治療"],
-    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
-  },
-  {
-    "name": "オーロラ",
-    "rarity": 5,
-    "tags": ["重装タイプ", "近距離", "火力", "防御"],
-    "acquisition_methods": ["スタンダードスカウト"]
-  },
-  {
-    "name": "クロワッサン",
-    "rarity": 5,
-    "tags": ["重装タイプ", "近距離", "防御", "強制移動"],
-    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
-  },
-  {
-    "name": "シャレム",
-    "rarity": 5,
-    "tags": ["重装タイプ", "近距離", "火力", "防御"],
-    "acquisition_methods": ["スタンダードスカウト"]
-  },
-  {
-    "name": "セメント",
-    "rarity": 5,
-    "tags": ["重装タイプ", "近距離", "防御"],
-    "acquisition_methods": ["スタンダードスカウト"]
-  },
-  {
-    "name": "ツェルニー",
-    "rarity": 5,
-    "tags": ["重装タイプ", "近距離", "防御", "火力"],
-    "acquisition_methods": ["イベント"]
-  },
-  {
-    "name": "ニアール",
-    "rarity": 5,
-    "tags": ["重装タイプ", "近距離", "防御", "治療"],
-    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
-  },
-  {
-    "name": "バイソン",
-    "rarity": 5,
-    "tags": ["重装タイプ", "近距離", "防御"],
-    "acquisition_methods": ["イベント"]
-  },
-  {
-    "name": "ファイヤーホイッスル",
-    "rarity": 5,
-    "tags": ["重装タイプ", "近距離", "火力", "防御"],
-    "acquisition_methods": ["スタンダードスカウト"]
-  },
-  {
-    "name": "ベースライン",
-    "rarity": 5,
-    "tags": ["重装タイプ", "近距離", "防御", "治療"],
-    "acquisition_methods": ["スタンダードスカウト"]
-  },
-  {
-    "name": "ヘビーレイン",
-    "rarity": 5,
-    "tags": ["重装タイプ", "近距離", "防御", "支援"],
-    "acquisition_methods": ["イベント"]
-  },
-  {
-    "name": "リスカム",
-    "rarity": 5,
-    "tags": ["重装タイプ", "近距離", "防御", "火力"],
-    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
-  },
-  {
-    "name": "アオスタ",
-    "rarity": 5,
-    "tags": ["狙撃タイプ", "遠距離", "範囲攻撃"],
     "acquisition_methods": ["スタンダードスカウト", "公開求人"]
   },
   {
@@ -930,10 +750,70 @@
     "acquisition_methods": ["スタンダードスカウト", "公開求人"]
   },
   {
+    "name": "アッシュロック",
+    "rarity": 5,
+    "tags": ["重装タイプ", "近距離", "火力", "防御"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "アブサント",
+    "rarity": 5,
+    "tags": ["術師タイプ", "遠距離", "火力"],
+    "acquisition_methods": ["イベント"]
+  },
+  {
+    "name": "アランナ",
+    "rarity": 5,
+    "tags": ["補助タイプ", "近距離", "火力", "支援"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "アロマ",
+    "rarity": 5,
+    "tags": ["術師タイプ", "遠距離", "範囲攻撃", "牽制"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "アンダーフロー",
+    "rarity": 5,
+    "tags": ["重装タイプ", "近距離", "防御", "火力", "減速"],
+    "acquisition_methods": ["イベント"]
+  },
+  {
     "name": "アンドレアナ",
     "rarity": 5,
     "tags": ["狙撃タイプ", "遠距離", "火力", "減速"],
     "acquisition_methods": ["スタンダードスカウト", "公開求人"]
+  },
+  {
+    "name": "アーミヤ",
+    "rarity": 5,
+    "tags": ["前衛タイプ", "近距離", "火力", "支援"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "アーミヤ",
+    "rarity": 5,
+    "tags": ["術師タイプ", "遠距離", "火力"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "アーミヤ(医療タイプ)",
+    "rarity": 5,
+    "tags": ["医療タイプ", "遠距離", "治療", "火力"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "アーモンド",
+    "rarity": 5,
+    "tags": ["特殊タイプ", "近距離", "強制移動"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "イェラ",
+    "rarity": 5,
+    "tags": ["術師タイプ", "遠距離", "火力", "牽制"],
+    "acquisition_methods": ["イベント"]
   },
   {
     "name": "イグゼキュター",
@@ -948,9 +828,81 @@
     "acquisition_methods": ["イベント"]
   },
   {
+    "name": "インドラ",
+    "rarity": 5,
+    "tags": ["前衛タイプ", "近距離", "火力", "生存"],
+    "acquisition_methods": ["公開求人"]
+  },
+  {
+    "name": "イースチナ",
+    "rarity": 5,
+    "tags": ["補助タイプ", "遠距離", "減速", "火力"],
+    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
+  },
+  {
+    "name": "ウィスパーレイン",
+    "rarity": 5,
+    "tags": ["医療タイプ", "遠距離", "治療"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "ウィスラッシュ",
+    "rarity": 5,
+    "tags": ["前衛タイプ", "近距離", "火力", "支援"],
+    "acquisition_methods": ["イベント"]
+  },
+  {
+    "name": "ウィンドチャイム",
+    "rarity": 5,
+    "tags": ["前衛タイプ", "近距離", "火力"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "ウインドフリット",
+    "rarity": 5,
+    "tags": ["補助タイプ", "近距離", "火力", "支援"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "ウォーミー",
+    "rarity": 5,
+    "tags": ["術師タイプ", "遠距離", "元素", "爆発力"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "ウユウ",
+    "rarity": 5,
+    "tags": ["特殊タイプ", "近距離", "高速再配置", "火力"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "ウルフェナイト",
+    "rarity": 5,
+    "tags": ["特殊タイプ", "遠距離", "召喚", "弱化"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "ウン",
+    "rarity": 5,
+    "tags": ["重装タイプ", "近距離", "防御", "治療"],
+    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
+  },
+  {
+    "name": "エアースカーペ",
+    "rarity": 5,
+    "tags": ["前衛タイプ", "近距離", "火力", "範囲攻撃"],
+    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
+  },
+  {
     "name": "エイプリル",
     "rarity": 5,
     "tags": ["狙撃タイプ", "遠距離", "火力"],
+    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
+  },
+  {
+    "name": "エフイーター",
+    "rarity": 5,
+    "tags": ["特殊タイプ", "近距離", "強制移動", "減速"],
     "acquisition_methods": ["スタンダードスカウト", "公開求人"]
   },
   {
@@ -960,123 +912,39 @@
     "acquisition_methods": ["スタンダードスカウト"]
   },
   {
-    "name": "グレースロート",
+    "name": "エリジウム",
     "rarity": 5,
-    "tags": ["狙撃タイプ", "遠距離", "火力"],
+    "tags": ["先鋒タイプ", "近距離", "COST回復", "支援"],
     "acquisition_methods": ["スタンダードスカウト", "公開求人"]
   },
   {
-    "name": "コールドショット",
+    "name": "エンカク",
     "rarity": 5,
-    "tags": ["狙撃タイプ", "遠距離", "火力"],
+    "tags": ["前衛タイプ", "近距離", "火力", "生存"],
     "acquisition_methods": ["イベント"]
   },
   {
-    "name": "シェーシャ",
+    "name": "エンフォーサー",
     "rarity": 5,
-    "tags": ["狙撃タイプ", "遠距離", "範囲攻撃", "弱化"],
-    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
-  },
-  {
-    "name": "ジエユン",
-    "rarity": 5,
-    "tags": ["狙撃タイプ", "遠距離", "範囲攻撃", "減速"],
+    "tags": ["特殊タイプ", "近距離", "強制移動", "牽制"],
     "acquisition_methods": ["イベント"]
   },
   {
-    "name": "トギフォンス",
+    "name": "オッダ",
     "rarity": 5,
-    "tags": ["狙撃タイプ", "遠距離", "火力"],
-    "acquisition_methods": ["スタンダードスカウト"]
-  },
-  {
-    "name": "ファイヤーウォッチ",
-    "rarity": 5,
-    "tags": ["狙撃タイプ", "遠距離", "火力", "爆発力"],
-    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
-  },
-  {
-    "name": "プラチナ",
-    "rarity": 5,
-    "tags": ["狙撃タイプ", "遠距離", "火力"],
-    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
-  },
-  {
-    "name": "プロヴァンス",
-    "rarity": 5,
-    "tags": ["狙撃タイプ", "遠距離", "火力"],
-    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
-  },
-  {
-    "name": "メテオリーテ",
-    "rarity": 5,
-    "tags": ["狙撃タイプ", "遠距離", "範囲攻撃", "弱化"],
-    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
-  },
-  {
-    "name": "メラナイト",
-    "rarity": 5,
-    "tags": ["狙撃タイプ", "遠距離", "火力", "爆発力"],
-    "acquisition_methods": ["スタンダードスカウト"]
-  },
-  {
-    "name": "ルナカブ",
-    "rarity": 5,
-    "tags": ["狙撃タイプ", "遠距離", "火力", "生存"],
-    "acquisition_methods": ["スタンダードスカウト"]
-  },
-  {
-    "name": "寒芒クルース",
-    "rarity": 5,
-    "tags": ["狙撃タイプ", "遠距離", "火力"],
+    "tags": ["前衛タイプ", "近距離", "範囲攻撃", "牽制"],
     "acquisition_methods": ["イベント"]
   },
   {
-    "name": "承曦グレイ",
+    "name": "オーロラ",
     "rarity": 5,
-    "tags": ["狙撃タイプ", "遠距離", "火力", "減速"],
+    "tags": ["重装タイプ", "近距離", "火力", "防御"],
     "acquisition_methods": ["スタンダードスカウト"]
   },
   {
-    "name": "アイリス",
+    "name": "カゼマル",
     "rarity": 5,
-    "tags": ["術師タイプ", "遠距離", "火力"],
-    "acquisition_methods": ["スタンダードスカウト"]
-  },
-  {
-    "name": "アステジーニ",
-    "rarity": 5,
-    "tags": ["術師タイプ", "遠距離", "火力"],
-    "acquisition_methods": ["イベント"]
-  },
-  {
-    "name": "アブサント",
-    "rarity": 5,
-    "tags": ["術師タイプ", "遠距離", "火力"],
-    "acquisition_methods": ["イベント"]
-  },
-  {
-    "name": "アロマ",
-    "rarity": 5,
-    "tags": ["術師タイプ", "遠距離", "範囲攻撃", "牽制"],
-    "acquisition_methods": ["スタンダードスカウト"]
-  },
-  {
-    "name": "アーミヤ",
-    "rarity": 5,
-    "tags": ["術師タイプ", "遠距離", "火力"],
-    "acquisition_methods": ["スタンダードスカウト"]
-  },
-  {
-    "name": "イェラ",
-    "rarity": 5,
-    "tags": ["術師タイプ", "遠距離", "火力", "牽制"],
-    "acquisition_methods": ["イベント"]
-  },
-  {
-    "name": "ウォーミー",
-    "rarity": 5,
-    "tags": ["術師タイプ", "遠距離", "元素", "爆発力"],
+    "tags": ["特殊タイプ", "近距離", "火力", "高速再配置"],
     "acquisition_methods": ["スタンダードスカウト"]
   },
   {
@@ -1086,10 +954,112 @@
     "acquisition_methods": ["スタンダードスカウト"]
   },
   {
+    "name": "カフカ",
+    "rarity": 5,
+    "tags": ["特殊タイプ", "近距離", "高速再配置", "牽制"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "カンタービレ",
+    "rarity": 5,
+    "tags": ["先鋒タイプ", "近距離", "COST回復", "高速再配置"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "キアーベ",
+    "rarity": 5,
+    "tags": ["先鋒タイプ", "近距離", "COST回復", "火力"],
+    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
+  },
+  {
+    "name": "キャサリン",
+    "rarity": 5,
+    "tags": ["補助タイプ", "近距離", "防御", "支援"],
+    "acquisition_methods": ["イベント"]
+  },
+  {
+    "name": "キララ",
+    "rarity": 5,
+    "tags": ["特殊タイプ", "近距離", "火力", "生存"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "クエルクス",
+    "rarity": 5,
+    "tags": ["補助タイプ", "遠距離", "支援", "生存"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "クリフハート",
+    "rarity": 5,
+    "tags": ["特殊タイプ", "近距離", "強制移動", "火力"],
+    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
+  },
+  {
+    "name": "クロワッサン",
+    "rarity": 5,
+    "tags": ["重装タイプ", "近距離", "防御", "強制移動"],
+    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
+  },
+  {
+    "name": "グラウコス",
+    "rarity": 5,
+    "tags": ["補助タイプ", "遠距離", "減速", "牽制"],
+    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
+  },
+  {
+    "name": "グラニ",
+    "rarity": 5,
+    "tags": ["先鋒タイプ", "近距離", "COST回復", "防御"],
+    "acquisition_methods": ["イベント"]
+  },
+  {
+    "name": "グレインバッズ",
+    "rarity": 5,
+    "tags": ["補助タイプ", "遠距離", "減速", "牽制"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "グレースベアラー",
+    "rarity": 5,
+    "tags": ["前衛タイプ", "近距離", "爆発力", "火力"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "グレースロート",
+    "rarity": 5,
+    "tags": ["狙撃タイプ", "遠距離", "火力"],
+    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
+  },
+  {
+    "name": "ケストレル",
+    "rarity": 5,
+    "tags": ["先鋒タイプ", "近距離", "COST回復", "火力"],
+    "acquisition_methods": ["生息演算"]
+  },
+  {
     "name": "コロセラム",
     "rarity": 5,
     "tags": ["術師タイプ", "遠距離", "範囲攻撃", "弱化"],
     "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "コールドショット",
+    "rarity": 5,
+    "tags": ["狙撃タイプ", "遠距離", "火力"],
+    "acquisition_methods": ["イベント"]
+  },
+  {
+    "name": "サイレンス",
+    "rarity": 5,
+    "tags": ["医療タイプ", "遠距離", "治療"],
+    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
+  },
+  {
+    "name": "サベージ",
+    "rarity": 5,
+    "tags": ["前衛タイプ", "近距離", "範囲攻撃", "爆発力"],
+    "acquisition_methods": ["周年記念"]
   },
   {
     "name": "サンタラ",
@@ -1098,9 +1068,159 @@
     "acquisition_methods": ["スタンダードスカウト"]
   },
   {
+    "name": "サンドレコナー",
+    "rarity": 5,
+    "tags": ["補助タイプ", "遠距離", "召喚", "減速"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "サーファー",
+    "rarity": 5,
+    "tags": ["先鋒タイプ", "近距離", "COST回復", "高速再配置"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "シィンズゥ",
+    "rarity": 5,
+    "tags": ["補助タイプ", "遠距離", "支援", "生存"],
+    "acquisition_methods": ["イベント"]
+  },
+  {
+    "name": "シェーシャ",
+    "rarity": 5,
+    "tags": ["狙撃タイプ", "遠距離", "範囲攻撃", "弱化"],
+    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
+  },
+  {
+    "name": "シデロカ",
+    "rarity": 5,
+    "tags": ["前衛タイプ", "近距離", "生存", "火力"],
+    "acquisition_methods": ["イベント"]
+  },
+  {
+    "name": "シャマレ",
+    "rarity": 5,
+    "tags": ["補助タイプ", "遠距離", "弱化"],
+    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
+  },
+  {
+    "name": "シャレム",
+    "rarity": 5,
+    "tags": ["重装タイプ", "近距離", "火力", "防御"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "シーン",
+    "rarity": 5,
+    "tags": ["補助タイプ", "遠距離", "召喚", "支援"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "ジエユン",
+    "rarity": 5,
+    "tags": ["狙撃タイプ", "遠距離", "範囲攻撃", "減速"],
+    "acquisition_methods": ["イベント"]
+  },
+  {
     "name": "スカイフレア",
     "rarity": 5,
     "tags": ["術師タイプ", "遠距離", "範囲攻撃", "牽制"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "スノーズント",
+    "rarity": 5,
+    "tags": ["特殊タイプ", "近距離", "強制移動", "減速"],
+    "acquisition_methods": ["イベント"]
+  },
+  {
+    "name": "スプリア",
+    "rarity": 5,
+    "tags": ["特殊タイプ", "遠距離", "火力", "支援"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "スペクター",
+    "rarity": 5,
+    "tags": ["前衛タイプ", "近距離", "範囲攻撃", "生存"],
+    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
+  },
+  {
+    "name": "スワイヤー",
+    "rarity": 5,
+    "tags": ["前衛タイプ", "近距離", "火力", "支援"],
+    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
+  },
+  {
+    "name": "ズィマー",
+    "rarity": 5,
+    "tags": ["先鋒タイプ", "近距離", "COST回復", "支援"],
+    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
+  },
+  {
+    "name": "セイロン",
+    "rarity": 5,
+    "tags": ["医療タイプ", "遠距離", "治療"],
+    "acquisition_methods": ["イベント"]
+  },
+  {
+    "name": "セメント",
+    "rarity": 5,
+    "tags": ["重装タイプ", "近距離", "防御"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "センシ",
+    "rarity": 5,
+    "tags": ["重装タイプ", "近距離", "防御", "治療"],
+    "acquisition_methods": ["コラボイベント"]
+  },
+  {
+    "name": "ソラ",
+    "rarity": 5,
+    "tags": ["補助タイプ", "遠距離", "治療", "支援"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "ダグザ",
+    "rarity": 5,
+    "tags": ["前衛タイプ", "近距離", "火力", "生存"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "チルチャック",
+    "rarity": 5,
+    "tags": ["先鋒タイプ", "近距離", "COST回復", "高速再配置"],
+    "acquisition_methods": ["コラボスカウト"]
+  },
+  {
+    "name": "ツェルニー",
+    "rarity": 5,
+    "tags": ["重装タイプ", "近距離", "防御", "火力"],
+    "acquisition_methods": ["イベント"]
+  },
+  {
+    "name": "ツキノギ",
+    "rarity": 5,
+    "tags": ["補助タイプ", "遠距離", "支援", "生存"],
+    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
+  },
+  {
+    "name": "テキサス",
+    "rarity": 5,
+    "tags": ["先鋒タイプ", "近距離", "COST回復", "牽制"],
+    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
+  },
+  {
+    "name": "テキーラ",
+    "rarity": 5,
+    "tags": ["前衛タイプ", "近距離", "爆発力"],
+    "acquisition_methods": ["イベント"]
+  },
+  {
+    "name": "テクノ",
+    "rarity": 5,
+    "tags": ["術師タイプ", "遠距離", "召喚"],
     "acquisition_methods": ["スタンダードスカウト"]
   },
   {
@@ -1116,6 +1236,18 @@
     "acquisition_methods": ["スタンダードスカウト"]
   },
   {
+    "name": "トゥイエ",
+    "rarity": 5,
+    "tags": ["医療タイプ", "遠距離", "治療"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "トギフォンス",
+    "rarity": 5,
+    "tags": ["狙撃タイプ", "遠距離", "火力"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
     "name": "トミミ",
     "rarity": 5,
     "tags": ["術師タイプ", "遠距離", "火力", "生存"],
@@ -1128,87 +1260,27 @@
     "acquisition_methods": ["スタンダードスカウト", "公開求人"]
   },
   {
-    "name": "ハーモニー",
+    "name": "ニアール",
     "rarity": 5,
-    "tags": ["術師タイプ", "遠距離", "火力"],
-    "acquisition_methods": ["スタンダードスカウト"]
-  },
-  {
-    "name": "ビーズワクス",
-    "rarity": 5,
-    "tags": ["術師タイプ", "遠距離", "範囲攻撃", "防御"],
+    "tags": ["重装タイプ", "近距離", "防御", "治療"],
     "acquisition_methods": ["スタンダードスカウト", "公開求人"]
   },
   {
-    "name": "ミニマリスト",
-    "rarity": 5,
-    "tags": ["術師タイプ", "遠距離", "火力"],
-    "acquisition_methods": ["イベント"]
-  },
-  {
-    "name": "ミント",
-    "rarity": 5,
-    "tags": ["術師タイプ", "遠距離", "範囲攻撃", "牽制"],
-    "acquisition_methods": ["イベント"]
-  },
-  {
-    "name": "レイズ",
-    "rarity": 5,
-    "tags": ["術師タイプ", "遠距離", "火力"],
-    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
-  },
-  {
-    "name": "レオンハルト",
-    "rarity": 5,
-    "tags": ["術師タイプ", "遠距離", "範囲攻撃", "爆発力"],
-    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
-  },
-  {
-    "name": "ロックロック",
-    "rarity": 5,
-    "tags": ["術師タイプ", "遠距離", "火力"],
-    "acquisition_methods": ["スタンダードスカウト"]
-  },
-  {
-    "name": "炎獄ラヴァ",
-    "rarity": 5,
-    "tags": ["術師タイプ", "遠距離", "火力"],
-    "acquisition_methods": ["イベント"]
-  },
-  {
-    "name": "アーミヤ(医療タイプ)",
-    "rarity": 5,
-    "tags": ["医療タイプ", "遠距離", "治療", "火力"],
-    "acquisition_methods": ["スタンダードスカウト"]
-  },
-  {
-    "name": "ヴァンデラ",
+    "name": "ノウエル",
     "rarity": 5,
     "tags": ["医療タイプ", "遠距離", "治療"],
     "acquisition_methods": ["スタンダードスカウト"]
   },
   {
-    "name": "ウィスパーレイン",
+    "name": "ハイディ",
     "rarity": 5,
-    "tags": ["医療タイプ", "遠距離", "治療"],
+    "tags": ["補助タイプ", "遠距離", "支援", "治療"],
     "acquisition_methods": ["スタンダードスカウト"]
   },
   {
-    "name": "サイレンス",
+    "name": "ハイモア",
     "rarity": 5,
-    "tags": ["医療タイプ", "遠距離", "治療"],
-    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
-  },
-  {
-    "name": "セイロン",
-    "rarity": 5,
-    "tags": ["医療タイプ", "遠距離", "治療"],
-    "acquisition_methods": ["イベント"]
-  },
-  {
-    "name": "トゥイエ",
-    "rarity": 5,
-    "tags": ["医療タイプ", "遠距離", "治療"],
+    "tags": ["前衛タイプ", "近距離", "火力"],
     "acquisition_methods": ["スタンダードスカウト"]
   },
   {
@@ -1218,16 +1290,76 @@
     "acquisition_methods": ["スタンダードスカウト"]
   },
   {
+    "name": "ハロルド",
+    "rarity": 5,
+    "tags": ["医療タイプ", "遠距離", "治療"],
+    "acquisition_methods": ["イベント"]
+  },
+  {
+    "name": "ハーモニー",
+    "rarity": 5,
+    "tags": ["術師タイプ", "遠距離", "火力"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "バイソン",
+    "rarity": 5,
+    "tags": ["重装タイプ", "近距離", "防御"],
+    "acquisition_methods": ["イベント"]
+  },
+  {
+    "name": "バイビーク",
+    "rarity": 5,
+    "tags": ["前衛タイプ", "近距離", "爆発力", "火力"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "パズル",
+    "rarity": 5,
+    "tags": ["先鋒タイプ", "近距離", "COST回復", "高速再配置"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "パピルス",
+    "rarity": 5,
+    "tags": ["医療タイプ", "遠距離", "治療"],
+    "acquisition_methods": ["イベント"]
+  },
+  {
     "name": "パプリカ",
     "rarity": 5,
     "tags": ["医療タイプ", "遠距離", "治療"],
     "acquisition_methods": ["スタンダードスカウト"]
   },
   {
-    "name": "ハロルド",
+    "name": "ビーズワクス",
     "rarity": 5,
-    "tags": ["医療タイプ", "遠距離", "治療"],
-    "acquisition_methods": ["イベント"]
+    "tags": ["術師タイプ", "遠距離", "範囲攻撃", "防御"],
+    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
+  },
+  {
+    "name": "ファイヤーウォッチ",
+    "rarity": 5,
+    "tags": ["狙撃タイプ", "遠距離", "火力", "爆発力"],
+    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
+  },
+  {
+    "name": "ファイヤーホイッスル",
+    "rarity": 5,
+    "tags": ["重装タイプ", "近距離", "火力", "防御"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "フィグリーノ",
+    "rarity": 5,
+    "tags": ["特殊タイプ", "近距離", "高速再配置", "牽制"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "フィラエ",
+    "rarity": 5,
+    "tags": ["重装タイプ", "近距離", "元素", "防御"],
+    "acquisition_methods": ["購買資格証"]
   },
   {
     "name": "フィリオプシス",
@@ -1242,94 +1374,58 @@
     "acquisition_methods": ["イベント"]
   },
   {
+    "name": "フランカ",
+    "rarity": 5,
+    "tags": ["前衛タイプ", "近距離", "火力", "生存"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "フリント",
+    "rarity": 5,
+    "tags": ["前衛タイプ", "近距離", "火力"],
+    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
+  },
+  {
+    "name": "ブライオファイタ",
+    "rarity": 5,
+    "tags": ["前衛タイプ", "近距離", "火力", "支援"],
+    "acquisition_methods": ["イベント"]
+  },
+  {
+    "name": "ブラックナイト",
+    "rarity": 5,
+    "tags": ["先鋒タイプ", "遠距離", "COST回復", "牽制"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "ブリキ",
+    "rarity": 5,
+    "tags": ["特殊タイプ", "遠距離", "弱化", "支援"],
+    "acquisition_methods": ["統合戦略"]
+  },
+  {
+    "name": "ブリギッド",
+    "rarity": 5,
+    "tags": ["狙撃タイプ", "遠距離", "火力"],
+    "acquisition_methods": ["イベント"]
+  },
+  {
     "name": "ブリーズ",
     "rarity": 5,
     "tags": ["医療タイプ", "遠距離", "治療", "支援"],
     "acquisition_methods": ["スタンダードスカウト"]
   },
   {
-    "name": "マルベリー",
+    "name": "ブローカ",
     "rarity": 5,
-    "tags": ["医療タイプ", "遠距離", "治療"],
-    "acquisition_methods": ["スタンダードスカウト"]
-  },
-  {
-    "name": "ワルファリン",
-    "rarity": 5,
-    "tags": ["医療タイプ", "遠距離", "治療", "支援"],
+    "tags": ["前衛タイプ", "近距離", "範囲攻撃", "生存"],
     "acquisition_methods": ["スタンダードスカウト", "公開求人"]
   },
   {
-    "name": "濯塵ハイビスカス",
+    "name": "プラチナ",
     "rarity": 5,
-    "tags": ["医療タイプ", "遠距離", "治療"],
-    "acquisition_methods": ["スタンダードスカウト"]
-  },
-  {
-    "name": "イースチナ",
-    "rarity": 5,
-    "tags": ["補助タイプ", "遠距離", "減速", "火力"],
+    "tags": ["狙撃タイプ", "遠距離", "火力"],
     "acquisition_methods": ["スタンダードスカウト", "公開求人"]
-  },
-  {
-    "name": "ヴァラルクビン",
-    "rarity": 5,
-    "tags": ["補助タイプ", "遠距離", "元素"],
-    "acquisition_methods": ["スタンダードスカウト"]
-  },
-  {
-    "name": "ウインドフリット",
-    "rarity": 5,
-    "tags": ["補助タイプ", "近距離", "火力", "支援"],
-    "acquisition_methods": ["スタンダードスカウト"]
-  },
-  {
-    "name": "クエルクス",
-    "rarity": 5,
-    "tags": ["補助タイプ", "遠距離", "支援", "生存"],
-    "acquisition_methods": ["スタンダードスカウト"]
-  },
-  {
-    "name": "グラウコス",
-    "rarity": 5,
-    "tags": ["補助タイプ", "遠距離", "減速", "牽制"],
-    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
-  },
-  {
-    "name": "グレインバッズ",
-    "rarity": 5,
-    "tags": ["補助タイプ", "遠距離", "減速", "牽制"],
-    "acquisition_methods": ["スタンダードスカウト"]
-  },
-  {
-    "name": "シャマレ",
-    "rarity": 5,
-    "tags": ["補助タイプ", "遠距離", "弱化"],
-    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
-  },
-  {
-    "name": "シーン",
-    "rarity": 5,
-    "tags": ["補助タイプ", "遠距離", "召喚", "支援"],
-    "acquisition_methods": ["スタンダードスカウト"]
-  },
-  {
-    "name": "ソラ",
-    "rarity": 5,
-    "tags": ["補助タイプ", "遠距離", "治療", "支援"],
-    "acquisition_methods": ["スタンダードスカウト"]
-  },
-  {
-    "name": "ツキノギ",
-    "rarity": 5,
-    "tags": ["補助タイプ", "遠距離", "支援", "生存"],
-    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
-  },
-  {
-    "name": "ハイディ",
-    "rarity": 5,
-    "tags": ["補助タイプ", "遠距離", "支援", "治療"],
-    "acquisition_methods": ["スタンダードスカウト"]
   },
   {
     "name": "プラマニクス",
@@ -1344,88 +1440,16 @@
     "acquisition_methods": ["スタンダードスカウト"]
   },
   {
-    "name": "メイヤー",
+    "name": "プロヴァンス",
     "rarity": 5,
-    "tags": ["補助タイプ", "遠距離", "召喚", "牽制"],
+    "tags": ["狙撃タイプ", "遠距離", "火力"],
     "acquisition_methods": ["スタンダードスカウト", "公開求人"]
   },
   {
-    "name": "九色鹿",
+    "name": "ヘビーレイン",
     "rarity": 5,
-    "tags": ["補助タイプ", "遠距離", "支援", "生存"],
-    "acquisition_methods": ["スタンダードスカウト"]
-  },
-  {
-    "name": "Frost",
-    "rarity": 5,
-    "tags": ["特殊タイプ", "遠距離", "召喚", "牽制"],
-    "acquisition_methods": ["コラボスカウト"]
-  },
-  {
-    "name": "Iana",
-    "rarity": 5,
-    "tags": ["特殊タイプ", "近距離", "弱化", "高速再配置"],
-    "acquisition_methods": ["コラボスカウト"]
-  },
-  {
-    "name": "ウユウ",
-    "rarity": 5,
-    "tags": ["特殊タイプ", "近距離", "高速再配置", "火力"],
-    "acquisition_methods": ["スタンダードスカウト"]
-  },
-  {
-    "name": "アーモンド",
-    "rarity": 5,
-    "tags": ["特殊タイプ", "近距離", "強制移動"],
-    "acquisition_methods": ["スタンダードスカウト"]
-  },
-  {
-    "name": "エフイーター",
-    "rarity": 5,
-    "tags": ["特殊タイプ", "近距離", "強制移動", "減速"],
-    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
-  },
-  {
-    "name": "エンフォーサー",
-    "rarity": 5,
-    "tags": ["特殊タイプ", "近距離", "強制移動", "牽制"],
+    "tags": ["重装タイプ", "近距離", "防御", "支援"],
     "acquisition_methods": ["イベント"]
-  },
-  {
-    "name": "カゼマル",
-    "rarity": 5,
-    "tags": ["特殊タイプ", "近距離", "火力", "高速再配置"],
-    "acquisition_methods": ["スタンダードスカウト"]
-  },
-  {
-    "name": "カフカ",
-    "rarity": 5,
-    "tags": ["特殊タイプ", "近距離", "高速再配置", "牽制"],
-    "acquisition_methods": ["スタンダードスカウト"]
-  },
-  {
-    "name": "キララ",
-    "rarity": 5,
-    "tags": ["特殊タイプ", "近距離", "火力", "生存"],
-    "acquisition_methods": ["スタンダードスカウト"]
-  },
-  {
-    "name": "クリフハート",
-    "rarity": 5,
-    "tags": ["特殊タイプ", "近距離", "強制移動", "火力"],
-    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
-  },
-  {
-    "name": "スノーズント",
-    "rarity": 5,
-    "tags": ["特殊タイプ", "近距離", "強制移動", "減速"],
-    "acquisition_methods": ["イベント"]
-  },
-  {
-    "name": "スプリア",
-    "rarity": 5,
-    "tags": ["特殊タイプ", "遠距離", "火力", "支援"],
-    "acquisition_methods": ["スタンダードスカウト"]
   },
   {
     "name": "ベナ",
@@ -1434,9 +1458,141 @@
     "acquisition_methods": ["イベント"]
   },
   {
+    "name": "ベースライン",
+    "rarity": 5,
+    "tags": ["重装タイプ", "近距離", "防御", "治療"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "ボビング",
+    "rarity": 5,
+    "tags": ["補助タイプ", "遠距離", "元素"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "ポンシラス",
+    "rarity": 5,
+    "tags": ["先鋒タイプ", "近距離", "COST回復", "防御"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "マルベリー",
+    "rarity": 5,
+    "tags": ["医療タイプ", "遠距離", "治療"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
     "name": "マンティコア",
     "rarity": 5,
     "tags": ["特殊タイプ", "近距離", "火力", "生存"],
+    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
+  },
+  {
+    "name": "ミトム",
+    "rarity": 5,
+    "tags": ["先鋒タイプ", "遠距離", "COST回復", "爆発力"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "ミニマリスト",
+    "rarity": 5,
+    "tags": ["術師タイプ", "遠距離", "火力"],
+    "acquisition_methods": ["イベント"]
+  },
+  {
+    "name": "ミント",
+    "rarity": 5,
+    "tags": ["術師タイプ", "遠距離", "範囲攻撃", "牽制"],
+    "acquisition_methods": ["イベント"]
+  },
+  {
+    "name": "メイヤー",
+    "rarity": 5,
+    "tags": ["補助タイプ", "遠距離", "召喚", "牽制"],
+    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
+  },
+  {
+    "name": "メテオリーテ",
+    "rarity": 5,
+    "tags": ["狙撃タイプ", "遠距離", "範囲攻撃", "弱化"],
+    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
+  },
+  {
+    "name": "メラナイト",
+    "rarity": 5,
+    "tags": ["狙撃タイプ", "遠距離", "火力", "爆発力"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "モーガン",
+    "rarity": 5,
+    "tags": ["前衛タイプ", "近距離", "火力"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "ライオス",
+    "rarity": 5,
+    "tags": ["前衛タイプ", "近距離", "火力", "牽制"],
+    "acquisition_methods": ["コラボスカウト"]
+  },
+  {
+    "name": "ラップランド",
+    "rarity": 5,
+    "tags": ["前衛タイプ", "近距離", "火力", "弱化"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "ラ・プルマ",
+    "rarity": 5,
+    "tags": ["前衛タイプ", "近距離", "火力"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "リェータ",
+    "rarity": 5,
+    "tags": ["前衛タイプ", "近距離", "火力", "支援"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "リスカム",
+    "rarity": 5,
+    "tags": ["重装タイプ", "近距離", "防御", "火力"],
+    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
+  },
+  {
+    "name": "リード",
+    "rarity": 5,
+    "tags": ["先鋒タイプ", "近距離", "COST回復", "火力"],
+    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
+  },
+  {
+    "name": "ルシーラ",
+    "rarity": 5,
+    "tags": ["補助タイプ", "遠距離", "弱化"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "ルナカブ",
+    "rarity": 5,
+    "tags": ["狙撃タイプ", "遠距離", "火力", "生存"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "レイズ",
+    "rarity": 5,
+    "tags": ["術師タイプ", "遠距離", "火力"],
+    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
+  },
+  {
+    "name": "レウスSノイルホーン",
+    "rarity": 5,
+    "tags": ["前衛タイプ", "近距離", "生存", "火力"],
+    "acquisition_methods": ["コラボスカウト"]
+  },
+  {
+    "name": "レオンハルト",
+    "rarity": 5,
+    "tags": ["術師タイプ", "遠距離", "範囲攻撃", "爆発力"],
     "acquisition_methods": ["スタンダードスカウト", "公開求人"]
   },
   {
@@ -1446,9 +1602,21 @@
     "acquisition_methods": ["スタンダードスカウト", "公開求人"]
   },
   {
+    "name": "ロックロック",
+    "rarity": 5,
+    "tags": ["術師タイプ", "遠距離", "火力"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
     "name": "ロビン",
     "rarity": 5,
     "tags": ["特殊タイプ", "遠距離", "召喚", "強制移動"],
+    "acquisition_methods": ["イベント"]
+  },
+  {
+    "name": "ローズソルト",
+    "rarity": 5,
+    "tags": ["医療タイプ", "遠距離", "治療", "支援"],
     "acquisition_methods": ["イベント"]
   },
   {
@@ -1458,40 +1626,124 @@
     "acquisition_methods": ["スタンダードスカウト", "公開求人"]
   },
   {
-    "name": "ヴィグナ",
-    "rarity": 4,
-    "tags": ["先鋒タイプ", "近距離", "火力", "COST回復"],
-    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
-  },
-  {
-    "name": "クーリエ",
-    "rarity": 4,
-    "tags": ["先鋒タイプ", "近距離", "COST回復", "防御"],
-    "acquisition_methods": ["スタンダードスカウト"]
-  },
-  {
-    "name": "スカベンジャー",
-    "rarity": 4,
+    "name": "ワイルドメイン",
+    "rarity": 5,
     "tags": ["先鋒タイプ", "近距離", "COST回復", "火力"],
+    "acquisition_methods": ["イベント"]
+  },
+  {
+    "name": "ワルファリン",
+    "rarity": 5,
+    "tags": ["医療タイプ", "遠距離", "治療", "支援"],
     "acquisition_methods": ["スタンダードスカウト", "公開求人"]
   },
   {
-    "name": "テンニンカ",
-    "rarity": 4,
-    "tags": ["先鋒タイプ", "近距離", "COST回復", "治療"],
-    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
+    "name": "ワンチィン",
+    "rarity": 5,
+    "tags": ["先鋒タイプ", "近距離", "COST回復", "支援"],
+    "acquisition_methods": ["イベント"]
   },
   {
-    "name": "ビーンストーク",
-    "rarity": 4,
-    "tags": ["先鋒タイプ", "遠距離", "COST回復", "召喚"],
+    "name": "ヴァラルクビン",
+    "rarity": 5,
+    "tags": ["補助タイプ", "遠距離", "元素"],
     "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "ヴァルカン",
+    "rarity": 5,
+    "tags": ["重装タイプ", "近距離", "生存", "防御", "火力"],
+    "acquisition_methods": ["公開求人"]
+  },
+  {
+    "name": "ヴァンデラ",
+    "rarity": 5,
+    "tags": ["医療タイプ", "遠距離", "治療"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "九色鹿",
+    "rarity": 5,
+    "tags": ["補助タイプ", "遠距離", "支援", "生存"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "九色鹿",
+    "rarity": 5,
+    "tags": ["補助タイプ", "遠距離", "支援", "生存"],
+    "acquisition_methods": ["コラボイベント"]
+  },
+  {
+    "name": "寒芒クルース",
+    "rarity": 5,
+    "tags": ["狙撃タイプ", "遠距離", "火力"],
+    "acquisition_methods": ["イベント"]
+  },
+  {
+    "name": "承曦グレイ",
+    "rarity": 5,
+    "tags": ["狙撃タイプ", "遠距離", "火力", "減速"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "歴陣鋭槍フェン",
+    "rarity": 5,
+    "tags": ["先鋒タイプ", "近距離", "COST回復", "火力"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "濯塵ハイビスカス",
+    "rarity": 5,
+    "tags": ["医療タイプ", "遠距離", "治療"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "炎獄ラヴァ",
+    "rarity": 5,
+    "tags": ["術師タイプ", "遠距離", "火力"],
+    "acquisition_methods": ["イベント"]
+  },
+  {
+    "name": "アシッドドロップ",
+    "rarity": 4,
+    "tags": ["狙撃タイプ", "遠距離", "火力"],
+    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
   },
   {
     "name": "アレーン",
     "rarity": 4,
     "tags": ["前衛タイプ", "近距離", "火力"],
     "acquisition_methods": ["スタンダードスカウト", "公開求人"]
+  },
+  {
+    "name": "アンブリエル",
+    "rarity": 4,
+    "tags": ["狙撃タイプ", "遠距離", "火力", "減速"],
+    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
+  },
+  {
+    "name": "アーススピリット",
+    "rarity": 4,
+    "tags": ["補助タイプ", "遠距離", "減速"],
+    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
+  },
+  {
+    "name": "インディゴ",
+    "rarity": 4,
+    "tags": ["術師タイプ", "遠距離", "火力", "牽制"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "イーサン",
+    "rarity": 4,
+    "tags": ["特殊タイプ", "近距離", "火力", "牽制"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "ウィンドスクート",
+    "rarity": 4,
+    "tags": ["前衛タイプ", "近距離", "爆発力"],
+    "acquisition_methods": ["スタンダードスカウト"]
   },
   {
     "name": "ウタゲ",
@@ -1506,67 +1758,31 @@
     "acquisition_methods": ["公開求人"]
   },
   {
+    "name": "カシャ",
+    "rarity": 4,
+    "tags": ["術師タイプ", "遠距離", "火力", "牽制"],
+    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
+  },
+  {
     "name": "カッター",
     "rarity": 4,
     "tags": ["前衛タイプ", "近距離", "爆発力", "火力"],
     "acquisition_methods": ["スタンダードスカウト", "公開求人"]
   },
   {
+    "name": "ガヴィル",
+    "rarity": 4,
+    "tags": ["医療タイプ", "遠距離", "治療"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "ギターノ",
+    "rarity": 4,
+    "tags": ["術師タイプ", "遠距離", "範囲攻撃"],
+    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
+  },
+  {
     "name": "クォーツ",
-    "rarity": 4,
-    "tags": ["前衛タイプ", "近距離", "火力"],
-    "acquisition_methods": ["スタンダードスカウト"]
-  },
-  {
-    "name": "コンビクション",
-    "rarity": 4,
-    "tags": ["前衛タイプ", "近距離", "火力", "生存", "牽制", "爆発力"],
-    "acquisition_methods": ["イベント"]
-  },
-  {
-    "name": "ジャッキー",
-    "rarity": 4,
-    "tags": ["前衛タイプ", "近距離", "火力"],
-    "acquisition_methods": ["スタンダードスカウト"]
-  },
-  {
-    "name": "ドーベルマン",
-    "rarity": 4,
-    "tags": ["前衛タイプ", "近距離", "火力", "支援"],
-    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
-  },
-  {
-    "name": "ヒューマス",
-    "rarity": 4,
-    "tags": ["前衛タイプ", "近距離", "火力", "生存"],
-    "acquisition_methods": ["スタンダードスカウト"]
-  },
-  {
-    "name": "ビーハンター",
-    "rarity": 4,
-    "tags": ["前衛タイプ", "近距離", "火力"],
-    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
-  },
-  {
-    "name": "フロストリーフ",
-    "rarity": 4,
-    "tags": ["前衛タイプ", "近距離", "減速", "火力"],
-    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
-  },
-  {
-    "name": "マトイマル",
-    "rarity": 4,
-    "tags": ["前衛タイプ", "近距離", "生存", "火力"],
-    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
-  },
-  {
-    "name": "ムース",
-    "rarity": 4,
-    "tags": ["前衛タイプ", "近距離", "火力"],
-    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
-  },
-  {
-    "name": "羅小黒",
     "rarity": 4,
     "tags": ["前衛タイプ", "近距離", "火力"],
     "acquisition_methods": ["スタンダードスカウト"]
@@ -1578,111 +1794,21 @@
     "acquisition_methods": ["スタンダードスカウト", "公開求人"]
   },
   {
+    "name": "クーリエ",
+    "rarity": 4,
+    "tags": ["先鋒タイプ", "近距離", "COST回復", "防御"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
     "name": "グム",
     "rarity": 4,
     "tags": ["重装タイプ", "近距離", "防御", "治療"],
     "acquisition_methods": ["スタンダードスカウト", "公開求人"]
   },
   {
-    "name": "ジュナー",
+    "name": "グラベル",
     "rarity": 4,
-    "tags": ["重装タイプ", "近距離", "防御", "火力"],
-    "acquisition_methods": ["スタンダードスカウト"]
-  },
-  {
-    "name": "バブル",
-    "rarity": 4,
-    "tags": ["重装タイプ", "近距離", "防御"],
-    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
-  },
-  {
-    "name": "マッターホルン",
-    "rarity": 4,
-    "tags": ["重装タイプ", "近距離", "防御"],
-    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
-  },
-  {
-    "name": "ルトナダ",
-    "rarity": 4,
-    "tags": ["重装タイプ", "近距離", "生存", "防御"],
-    "acquisition_methods": ["スタンダードスカウト"]
-  },
-  {
-    "name": "アシッドドロップ",
-    "rarity": 4,
-    "tags": ["狙撃タイプ", "遠距離", "火力"],
-    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
-  },
-  {
-    "name": "アンブリエル",
-    "rarity": 4,
-    "tags": ["狙撃タイプ", "遠距離", "火力", "減速"],
-    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
-  },
-  {
-    "name": "ヴァーミル",
-    "rarity": 4,
-    "tags": ["狙撃タイプ", "遠距離", "火力"],
-    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
-  },
-  {
-    "name": "ケイパー",
-    "rarity": 4,
-    "tags": ["狙撃タイプ", "遠距離", "火力"],
-    "acquisition_methods": ["スタンダードスカウト"]
-  },
-  {
-    "name": "ジェシカ",
-    "rarity": 4,
-    "tags": ["狙撃タイプ", "遠距離", "火力", "生存"],
-    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
-  },
-  {
-    "name": "シラユキ",
-    "rarity": 4,
-    "tags": ["狙撃タイプ", "遠距離", "範囲攻撃", "減速"],
-    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
-  },
-  {
-    "name": "トター",
-    "rarity": 4,
-    "tags": ["狙撃タイプ", "遠距離", "火力"],
-    "acquisition_methods": ["スタンダードスカウト"]
-  },
-  {
-    "name": "パインコーン",
-    "rarity": 4,
-    "tags": ["狙撃タイプ", "遠距離", "範囲攻撃", "火力"],
-    "acquisition_methods": ["スタンダードスカウト"]
-  },
-  {
-    "name": "メイ",
-    "rarity": 4,
-    "tags": ["狙撃タイプ", "遠距離", "火力", "減速"],
-    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
-  },
-  {
-    "name": "メテオ",
-    "rarity": 4,
-    "tags": ["狙撃タイプ", "遠距離", "火力", "弱化"],
-    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
-  },
-  {
-    "name": "インディゴ",
-    "rarity": 4,
-    "tags": ["術師タイプ", "遠距離", "火力", "牽制"],
-    "acquisition_methods": ["スタンダードスカウト"]
-  },
-  {
-    "name": "カシャ",
-    "rarity": 4,
-    "tags": ["術師タイプ", "遠距離", "火力", "牽制"],
-    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
-  },
-  {
-    "name": "ギターノ",
-    "rarity": 4,
-    "tags": ["術師タイプ", "遠距離", "範囲攻撃"],
+    "tags": ["特殊タイプ", "近距離", "高速再配置", "防御"],
     "acquisition_methods": ["スタンダードスカウト", "公開求人"]
   },
   {
@@ -1692,22 +1818,64 @@
     "acquisition_methods": ["スタンダードスカウト", "公開求人"]
   },
   {
-    "name": "プリン",
+    "name": "ケイパー",
     "rarity": 4,
-    "tags": ["術師タイプ", "遠距離", "火力"],
+    "tags": ["狙撃タイプ", "遠距離", "火力"],
     "acquisition_methods": ["スタンダードスカウト"]
   },
   {
-    "name": "ヘイズ",
+    "name": "コントレイル",
     "rarity": 4,
-    "tags": ["術師タイプ", "遠距離", "火力", "弱化"],
+    "tags": ["特殊タイプ", "近距離", "高空", "牽制"],
+    "acquisition_methods": ["購買資格証"]
+  },
+  {
+    "name": "コンビクション",
+    "rarity": 4,
+    "tags": ["前衛タイプ", "近距離", "火力", "生存", "牽制", "爆発力"],
+    "acquisition_methods": ["イベント"]
+  },
+  {
+    "name": "ショウ",
+    "rarity": 4,
+    "tags": ["特殊タイプ", "近距離", "強制移動"],
     "acquisition_methods": ["スタンダードスカウト", "公開求人"]
   },
   {
-    "name": "ガヴィル",
+    "name": "シラユキ",
     "rarity": 4,
-    "tags": ["医療タイプ", "遠距離", "治療"],
+    "tags": ["狙撃タイプ", "遠距離", "範囲攻撃", "減速"],
+    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
+  },
+  {
+    "name": "ジェイ",
+    "rarity": 4,
+    "tags": ["特殊タイプ", "近距離", "高速再配置", "火力"],
+    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
+  },
+  {
+    "name": "ジェシカ",
+    "rarity": 4,
+    "tags": ["狙撃タイプ", "遠距離", "火力", "生存"],
+    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
+  },
+  {
+    "name": "ジャッキー",
+    "rarity": 4,
+    "tags": ["前衛タイプ", "近距離", "火力"],
     "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "ジュナー",
+    "rarity": 4,
+    "tags": ["重装タイプ", "近距離", "防御", "火力"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "スカベンジャー",
+    "rarity": 4,
+    "tags": ["先鋒タイプ", "近距離", "COST回復", "火力"],
+    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
   },
   {
     "name": "ススーロ",
@@ -1728,21 +1896,9 @@
     "acquisition_methods": ["スタンダードスカウト"]
   },
   {
-    "name": "パフューマー",
+    "name": "テンニンカ",
     "rarity": 4,
-    "tags": ["医療タイプ", "遠距離", "治療"],
-    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
-  },
-  {
-    "name": "ミルラ",
-    "rarity": 4,
-    "tags": ["医療タイプ", "遠距離", "治療"],
-    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
-  },
-  {
-    "name": "アーススピリット",
-    "rarity": 4,
-    "tags": ["補助タイプ", "遠距離", "減速"],
+    "tags": ["先鋒タイプ", "近距離", "COST回復", "治療"],
     "acquisition_methods": ["スタンダードスカウト", "公開求人"]
   },
   {
@@ -1752,10 +1908,118 @@
     "acquisition_methods": ["スタンダードスカウト"]
   },
   {
+    "name": "トター",
+    "rarity": 4,
+    "tags": ["狙撃タイプ", "遠距離", "火力"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "ドーベルマン",
+    "rarity": 4,
+    "tags": ["前衛タイプ", "近距離", "火力", "支援"],
+    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
+  },
+  {
+    "name": "バブル",
+    "rarity": 4,
+    "tags": ["重装タイプ", "近距離", "防御"],
+    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
+  },
+  {
+    "name": "パインコーン",
+    "rarity": 4,
+    "tags": ["狙撃タイプ", "遠距離", "範囲攻撃", "火力"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "パフューマー",
+    "rarity": 4,
+    "tags": ["医療タイプ", "遠距離", "治療"],
+    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
+  },
+  {
+    "name": "ヒューマス",
+    "rarity": 4,
+    "tags": ["前衛タイプ", "近距離", "火力", "生存"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "ビーハンター",
+    "rarity": 4,
+    "tags": ["前衛タイプ", "近距離", "火力"],
+    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
+  },
+  {
+    "name": "ビーンストーク",
+    "rarity": 4,
+    "tags": ["先鋒タイプ", "遠距離", "COST回復", "召喚"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "フロストリーフ",
+    "rarity": 4,
+    "tags": ["前衛タイプ", "近距離", "減速", "火力"],
+    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
+  },
+  {
+    "name": "プリン",
+    "rarity": 4,
+    "tags": ["術師タイプ", "遠距離", "火力"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "ヘイズ",
+    "rarity": 4,
+    "tags": ["術師タイプ", "遠距離", "火力", "弱化"],
+    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
+  },
+  {
     "name": "ポデンコ",
     "rarity": 4,
     "tags": ["補助タイプ", "遠距離", "減速", "治療"],
     "acquisition_methods": ["スタンダードスカウト", "公開求人"]
+  },
+  {
+    "name": "マッターホルン",
+    "rarity": 4,
+    "tags": ["重装タイプ", "近距離", "防御"],
+    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
+  },
+  {
+    "name": "マトイマル",
+    "rarity": 4,
+    "tags": ["前衛タイプ", "近距離", "生存", "火力"],
+    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
+  },
+  {
+    "name": "ミルラ",
+    "rarity": 4,
+    "tags": ["医療タイプ", "遠距離", "治療"],
+    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
+  },
+  {
+    "name": "ムース",
+    "rarity": 4,
+    "tags": ["前衛タイプ", "近距離", "火力"],
+    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
+  },
+  {
+    "name": "メイ",
+    "rarity": 4,
+    "tags": ["狙撃タイプ", "遠距離", "火力", "減速"],
+    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
+  },
+  {
+    "name": "メテオ",
+    "rarity": 4,
+    "tags": ["狙撃タイプ", "遠距離", "火力", "弱化"],
+    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
+  },
+  {
+    "name": "ルトナダ",
+    "rarity": 4,
+    "tags": ["重装タイプ", "近距離", "生存", "防御"],
+    "acquisition_methods": ["スタンダードスカウト"]
   },
   {
     "name": "ロベルタ",
@@ -1764,10 +2028,10 @@
     "acquisition_methods": ["スタンダードスカウト"]
   },
   {
-    "name": "イーサン",
+    "name": "ロープ",
     "rarity": 4,
-    "tags": ["特殊タイプ", "近距離", "火力", "牽制"],
-    "acquisition_methods": ["スタンダードスカウト"]
+    "tags": ["特殊タイプ", "近距離", "強制移動"],
+    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
   },
   {
     "name": "ヴァーダント",
@@ -1776,33 +2040,93 @@
     "acquisition_methods": ["スタンダードスカウト"]
   },
   {
-    "name": "グラベル",
+    "name": "ヴァーミル",
     "rarity": 4,
-    "tags": ["特殊タイプ", "近距離", "高速再配置", "防御"],
+    "tags": ["狙撃タイプ", "遠距離", "火力"],
     "acquisition_methods": ["スタンダードスカウト", "公開求人"]
   },
   {
-    "name": "ジェイ",
+    "name": "ヴィグナ",
     "rarity": 4,
-    "tags": ["特殊タイプ", "近距離", "高速再配置", "火力"],
+    "tags": ["先鋒タイプ", "近距離", "火力", "COST回復"],
     "acquisition_methods": ["スタンダードスカウト", "公開求人"]
   },
   {
-    "name": "ショウ",
+    "name": "羅小黒",
     "rarity": 4,
-    "tags": ["特殊タイプ", "近距離", "強制移動"],
+    "tags": ["前衛タイプ", "近距離", "火力"],
+    "acquisition_methods": ["スタンダードスカウト"]
+  },
+  {
+    "name": "羅小黒",
+    "rarity": 4,
+    "tags": ["前衛タイプ", "近距離", "火力"],
+    "acquisition_methods": ["コラボイベント"]
+  },
+  {
+    "name": "アドナキエル",
+    "rarity": 3,
+    "tags": ["狙撃タイプ", "遠距離", "火力"],
+    "acquisition_methods": ["公開求人"]
+  },
+  {
+    "name": "アンセル",
+    "rarity": 3,
+    "tags": ["医療タイプ", "遠距離", "治療"],
     "acquisition_methods": ["スタンダードスカウト", "公開求人"]
   },
   {
-    "name": "ロープ",
-    "rarity": 4,
-    "tags": ["特殊タイプ", "近距離", "強制移動"],
+    "name": "オーキッド",
+    "rarity": 3,
+    "tags": ["補助タイプ", "遠距離", "減速"],
+    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
+  },
+  {
+    "name": "カタパルト",
+    "rarity": 3,
+    "tags": ["狙撃タイプ", "遠距離", "範囲攻撃"],
+    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
+  },
+  {
+    "name": "カーディ",
+    "rarity": 3,
+    "tags": ["重装タイプ", "近距離", "防御"],
+    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
+  },
+  {
+    "name": "クルース",
+    "rarity": 3,
+    "tags": ["狙撃タイプ", "遠距離", "火力"],
+    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
+  },
+  {
+    "name": "スチュワード",
+    "rarity": 3,
+    "tags": ["術師タイプ", "遠距離", "火力"],
+    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
+  },
+  {
+    "name": "スポット",
+    "rarity": 3,
+    "tags": ["重装タイプ", "近距離", "防御", "治療"],
+    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
+  },
+  {
+    "name": "ハイビスカス",
+    "rarity": 3,
+    "tags": ["医療タイプ", "遠距離", "治療"],
     "acquisition_methods": ["スタンダードスカウト", "公開求人"]
   },
   {
     "name": "バニラ",
     "rarity": 3,
     "tags": ["先鋒タイプ", "近距離", "COST回復"],
+    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
+  },
+  {
+    "name": "ビーグル",
+    "rarity": 3,
+    "tags": ["重装タイプ", "近距離", "防御"],
     "acquisition_methods": ["スタンダードスカウト", "公開求人"]
   },
   {
@@ -1836,88 +2160,10 @@
     "acquisition_methods": ["スタンダードスカウト", "公開求人"]
   },
   {
-    "name": "カーディ",
-    "rarity": 3,
-    "tags": ["重装タイプ", "近距離", "防御"],
-    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
-  },
-  {
-    "name": "スポット",
-    "rarity": 3,
-    "tags": ["重装タイプ", "近距離", "防御", "治療"],
-    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
-  },
-  {
-    "name": "ビーグル",
-    "rarity": 3,
-    "tags": ["重装タイプ", "近距離", "防御"],
-    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
-  },
-  {
-    "name": "アドナキエル",
-    "rarity": 3,
-    "tags": ["狙撃タイプ", "遠距離", "火力"],
-    "acquisition_methods": ["公開求人"]
-  },
-  {
-    "name": "カタパルト",
-    "rarity": 3,
-    "tags": ["狙撃タイプ", "遠距離", "範囲攻撃"],
-    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
-  },
-  {
-    "name": "クルース",
-    "rarity": 3,
-    "tags": ["狙撃タイプ", "遠距離", "火力"],
-    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
-  },
-  {
-    "name": "スチュワード",
-    "rarity": 3,
-    "tags": ["術師タイプ", "遠距離", "火力"],
-    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
-  },
-  {
     "name": "ラヴァ",
     "rarity": 3,
     "tags": ["術師タイプ", "遠距離", "範囲攻撃"],
     "acquisition_methods": ["スタンダードスカウト", "公開求人"]
-  },
-  {
-    "name": "アンセル",
-    "rarity": 3,
-    "tags": ["医療タイプ", "遠距離", "治療"],
-    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
-  },
-  {
-    "name": "ハイビスカス",
-    "rarity": 3,
-    "tags": ["医療タイプ", "遠距離", "治療"],
-    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
-  },
-  {
-    "name": "オーキッド",
-    "rarity": 3,
-    "tags": ["補助タイプ", "遠距離", "減速"],
-    "acquisition_methods": ["スタンダードスカウト", "公開求人"]
-  },
-  {
-    "name": "ヤトウ",
-    "rarity": 2,
-    "tags": ["先鋒タイプ", "近距離", "初期"],
-    "acquisition_methods": ["公開求人"]
-  },
-  {
-    "name": "ノイルホーン",
-    "rarity": 2,
-    "tags": ["重装タイプ", "近距離", "初期"],
-    "acquisition_methods": ["公開求人"]
-  },
-  {
-    "name": "レンジャー",
-    "rarity": 2,
-    "tags": ["狙撃タイプ", "遠距離", "初期"],
-    "acquisition_methods": ["公開求人"]
   },
   {
     "name": "12F",
@@ -1929,6 +2175,30 @@
     "name": "ドゥリン",
     "rarity": 2,
     "tags": ["術師タイプ", "遠距離", "初期"],
+    "acquisition_methods": ["公開求人"]
+  },
+  {
+    "name": "ノイルホーン",
+    "rarity": 2,
+    "tags": ["重装タイプ", "近距離", "初期"],
+    "acquisition_methods": ["公開求人"]
+  },
+  {
+    "name": "ヤトウ",
+    "rarity": 2,
+    "tags": ["先鋒タイプ", "近距離", "初期"],
+    "acquisition_methods": ["公開求人"]
+  },
+  {
+    "name": "レンジャー",
+    "rarity": 2,
+    "tags": ["狙撃タイプ", "遠距離", "初期"],
+    "acquisition_methods": ["公開求人"]
+  },
+  {
+    "name": "CONFESS-47",
+    "rarity": 1,
+    "tags": ["先鋒タイプ", "近距離", "ロボット", "牽制"],
     "acquisition_methods": ["公開求人"]
   },
   {
@@ -1944,18 +2214,6 @@
     "acquisition_methods": ["公開求人"]
   },
   {
-    "name": "ジャスティスナイト",
-    "rarity": 1,
-    "tags": ["狙撃タイプ", "遠距離", "支援", "ロボット"],
-    "acquisition_methods": ["公開求人"]
-  },
-  {
-    "name": "テラ大陸調査団",
-    "rarity": 1,
-    "tags": ["狙撃タイプ", "遠距離", "牽制"],
-    "acquisition_methods": ["コラボイベント"]
-  },
-  {
     "name": "Lancet-2",
     "rarity": 1,
     "tags": ["医療タイプ", "遠距離", "治療", "ロボット"],
@@ -1968,15 +2226,27 @@
     "acquisition_methods": ["公開求人"]
   },
   {
+    "name": "THRM-EX",
+    "rarity": 1,
+    "tags": ["特殊タイプ", "近距離", "爆発力", "ロボット"],
+    "acquisition_methods": ["公開求人"]
+  },
+  {
     "name": "U-Official",
     "rarity": 1,
     "tags": ["補助タイプ", "遠距離", "牽制"],
     "acquisition_methods": ["イベント"]
   },
   {
-    "name": "THRM-EX",
+    "name": "ジャスティスナイト",
     "rarity": 1,
-    "tags": ["特殊タイプ", "近距離", "爆発力", "ロボット"],
+    "tags": ["狙撃タイプ", "遠距離", "支援", "ロボット"],
     "acquisition_methods": ["公開求人"]
+  },
+  {
+    "name": "テラ大陸調査団",
+    "rarity": 1,
+    "tags": ["狙撃タイプ", "遠距離", "牽制"],
+    "acquisition_methods": ["コラボイベント"]
   }
 ]

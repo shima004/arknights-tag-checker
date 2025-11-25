@@ -69,6 +69,12 @@ func TestAcquisitionMethod_MarshalJSON(t *testing.T) {
 			wantErr: false,
 		},
 		{
+			name:    "IntegratedStrategies",
+			method:  model.AMIntegratedStrategies,
+			want:    `"統合戦略"`,
+			wantErr: false,
+		},
+		{
 			name:    "PurchaseCertificateStore",
 			method:  model.AMPurchaseCertificateStore,
 			want:    `"購買資格証"`,
@@ -78,6 +84,12 @@ func TestAcquisitionMethod_MarshalJSON(t *testing.T) {
 			name:    "Anniversary",
 			method:  model.AMAnniversary,
 			want:    `"周年記念"`,
+			wantErr: false,
+		},
+		{
+			name:    "ReclamationAlgorithm",
+			method:  model.AMReclamationAlgorithm,
+			want:    `"生息演算"`,
 			wantErr: false,
 		},
 	}
@@ -158,6 +170,12 @@ func TestAcquisitionMethod_UnmarshalJSON(t *testing.T) {
 			wantErr:      false,
 		},
 		{
+			name:         "IntegratedStrategies",
+			stringMethod: `"統合戦略"`,
+			want:         model.AMIntegratedStrategies,
+			wantErr:      false,
+		},
+		{
 			name:         "PurchaseCertificateStore",
 			stringMethod: `"購買資格証"`,
 			want:         model.AMPurchaseCertificateStore,
@@ -167,6 +185,12 @@ func TestAcquisitionMethod_UnmarshalJSON(t *testing.T) {
 			name:         "Anniversary",
 			stringMethod: `"周年記念"`,
 			want:         model.AMAnniversary,
+			wantErr:      false,
+		},
+		{
+			name:         "ReclamationAlgorithm",
+			stringMethod: `"生息演算"`,
+			want:         model.AMReclamationAlgorithm,
 			wantErr:      false,
 		},
 		{

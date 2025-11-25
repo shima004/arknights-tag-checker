@@ -40,6 +40,7 @@ const (
 	TagFastRedeploy
 	TagSeniorOperator
 	TagTopOperator
+	TagSoar
 )
 
 var tagMapJa = map[Tag]string{
@@ -72,6 +73,7 @@ var tagMapJa = map[Tag]string{
 	TagFastRedeploy:   "高速再配置",
 	TagSeniorOperator: "エリート",
 	TagTopOperator:    "上級エリート",
+	TagSoar:           "高空",
 }
 
 var tagMapEn = map[Tag]string{
@@ -104,6 +106,7 @@ var tagMapEn = map[Tag]string{
 	TagFastRedeploy:   "Fast Redeploy",
 	TagSeniorOperator: "Senior Operator",
 	TagTopOperator:    "Top Operator",
+	TagSoar:           "Soar",
 }
 
 func (t Tag) String() string {

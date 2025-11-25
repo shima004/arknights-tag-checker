@@ -59,13 +59,19 @@ func TestAcquisitionMethod_MarshalJSON(t *testing.T) {
 		{
 			name:    "CrossOverEvent",
 			method:  model.AMCrossOverEvent,
-			want:    `"コラボイベント"`,
+			want:    `"コラボイベント報酬"`,
 			wantErr: false,
 		},
 		{
 			name:    "Event",
 			method:  model.AMEvent,
-			want:    `"イベント"`,
+			want:    `"イベント報酬"`,
+			wantErr: false,
+		},
+		{
+			name:    "MainStory",
+			method:  model.AMMainStory,
+			want:    `"メインストーリー"`,
 			wantErr: false,
 		},
 		{
@@ -90,6 +96,12 @@ func TestAcquisitionMethod_MarshalJSON(t *testing.T) {
 			name:    "ReclamationAlgorithm",
 			method:  model.AMReclamationAlgorithm,
 			want:    `"生息演算"`,
+			wantErr: false,
+		},
+		{
+			name:    "ContingencyContract",
+			method:  model.AMContingencyContract,
+			want:    `"危機契約"`,
 			wantErr: false,
 		},
 	}
@@ -159,14 +171,20 @@ func TestAcquisitionMethod_UnmarshalJSON(t *testing.T) {
 		},
 		{
 			name:         "CrossOverEvent",
-			stringMethod: `"コラボイベント"`,
+			stringMethod: `"コラボイベント報酬"`,
 			want:         model.AMCrossOverEvent,
 			wantErr:      false,
 		},
 		{
 			name:         "Event",
-			stringMethod: `"イベント"`,
+			stringMethod: `"イベント報酬"`,
 			want:         model.AMEvent,
+			wantErr:      false,
+		},
+		{
+			name:         "MainStory",
+			stringMethod: `"メインストーリー"`,
+			want:         model.AMMainStory,
 			wantErr:      false,
 		},
 		{
@@ -191,6 +209,12 @@ func TestAcquisitionMethod_UnmarshalJSON(t *testing.T) {
 			name:         "ReclamationAlgorithm",
 			stringMethod: `"生息演算"`,
 			want:         model.AMReclamationAlgorithm,
+			wantErr:      false,
+		},
+		{
+			name:         "ContingencyContract",
+			stringMethod: `"危機契約"`,
+			want:         model.AMContingencyContract,
 			wantErr:      false,
 		},
 		{

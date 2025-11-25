@@ -20,10 +20,12 @@ const (
 	AMCrossOverHeadHunting
 	AMCrossOverEvent
 	AMEvent
+	AMMainStory
 	AMIntegratedStrategies
 	AMPurchaseCertificateStore
 	AMAnniversary
 	AMReclamationAlgorithm
+	AMContingencyContract
 )
 
 var acquisitionMethodMapJa = map[AcquisitionMethod]string{
@@ -34,12 +36,14 @@ var acquisitionMethodMapJa = map[AcquisitionMethod]string{
 	AMLimitedHeadHuntingCarnival:    "リミテッドスカウト[遊]",
 	AMPublicRecruitment:             "公開求人",
 	AMCrossOverHeadHunting:          "コラボスカウト",
-	AMCrossOverEvent:                "コラボイベント",
-	AMEvent:                         "イベント",
+	AMCrossOverEvent:                "コラボイベント報酬",
+	AMEvent:                         "イベント報酬",
+	AMMainStory:                     "メインストーリー",
 	AMIntegratedStrategies:          "統合戦略",
 	AMPurchaseCertificateStore:      "購買資格証",
 	AMAnniversary:                   "周年記念",
 	AMReclamationAlgorithm:          "生息演算",
+	AMContingencyContract:           "危機契約",
 }
 
 var acquisitionMethodMapEn = map[AcquisitionMethod]string{
@@ -50,12 +54,14 @@ var acquisitionMethodMapEn = map[AcquisitionMethod]string{
 	AMLimitedHeadHuntingCarnival:    "Limited Head Hunting[Carnival]",
 	AMPublicRecruitment:             "Public Recruitment",
 	AMCrossOverHeadHunting:          "Cross Over Head Hunting",
-	AMCrossOverEvent:                "Cross Over Event",
-	AMEvent:                         "Event",
+	AMCrossOverEvent:                "Cross Over Event Reward",
+	AMEvent:                         "Event Reward",
+	AMMainStory:                     "Main Story",
 	AMIntegratedStrategies:          "Integrated Strategies",
 	AMPurchaseCertificateStore:      "Purchase Certificate Store",
 	AMAnniversary:                   "Anniversary",
 	AMReclamationAlgorithm:          "Reclamation Algorithm",
+	AMContingencyContract:           "Contingency Contract",
 }
 
 func (am AcquisitionMethod) String() string {
